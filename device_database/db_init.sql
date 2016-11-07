@@ -5,6 +5,7 @@ CREATE TABLE supported_devices(device_id INTEGER PRIMARY KEY ASC, device TEXT NO
 
 CREATE TABLE device_address(device_id INTEGER NOT NULL, name TEXT NOT NULL, value INTEGER NOT NULL, PRIMARY KEY(device_id, name));
 
+/*
 INSERT INTO supported_devices(device_id, device, build_id, check_property_name, check_property_value) VALUES(1, 'C1505', '11.3.A.0.47', NULL, NULL);
   INSERT INTO device_address(device_id, name, value) VALUES(1, 'prepare_kernel_cred', '0xc00adb98');
   INSERT INTO device_address(device_id, name, value) VALUES(1, 'commit_creds', '0xc00ad80c');
@@ -1494,3 +1495,4 @@ INSERT INTO supported_devices(device_id, device, build_id, check_property_name, 
 
 
 COMMIT;
+*/
