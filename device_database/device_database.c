@@ -8,6 +8,7 @@
 #include "device_database.h"
 
 #define ARRAY_SIZE(n)	(sizeof (n) / sizeof (*(n)))
+#define VERSION_MAX_VALUE 200
 
 #define DEVICE_DATABASE_FILE            "device.db"
 
@@ -438,11 +439,32 @@ device_set_symbol_address(device_symbol_t symbol, unsigned long int address)
   return true;
 }
 
+bool read_all(char * filename, char * buf) {
+  FILE *fp;
+  long lSize;
+  char *buffer;
+
+  fp = fopen ( filename , "rb" );
+  if( !fp ) perror(filename),return false;
+
+  fseek( fp , 0L , SEEK_END);
+  lSize = ftell( fp );
+  rewind( fp );
+
+  if( 1!=fread( buf , lSize, 1 , fp) )
+    fclose(fp),fputs("entire read fails",stderr),return false;
+
+
+  fclose(fp);
+  return true;
+}
+
 void
 print_reason_device_not_supported(void)
 {
   char device[PROP_VALUE_MAX];
   char build_id[PROP_VALUE_MAX];
+  char version[VERSION_VAlUE_MAX];
   const char *check_name;
   sqlite3_stmt *st;
   int rc;
@@ -454,6 +476,7 @@ print_reason_device_not_supported(void)
 
   __system_property_get("ro.product.model", device);
   __system_property_get("ro.build.display.id", build_id);
+
 
   check_name = NULL;
 

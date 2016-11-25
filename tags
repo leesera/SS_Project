@@ -1,0 +1,831 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACDB_H	libexploit/libfj_hdcp_exploit/fj_hdcp.h	2;"	d
+ACDB_H	libexploit/libmsm_acdb_exploit/acdb.h	2;"	d
+ADDR_ADD	libexploit/libpingpong_exploit/exploit.c	28;"	d	file:
+ARRAY_SIZE	device_database/device_database.c	10;"	d	file:
+ARRAY_SIZE	libexploit/libfutex_exploit/exploit.c	43;"	d	file:
+ARRAY_SIZE	libexploit/libpingpong_exploit/exploit.c	47;"	d	file:
+ARRAY_SIZE	libkallsyms/kallsyms_in_memory.c	33;"	d	file:
+BUFFER_SIZE	libexploit/libperf_event_exploit/perf_event.c	125;"	d	file:
+CREDS_H	cred.h	19;"	d
+DBGPRINT	libkallsyms/kallsyms_in_memory.c	31;"	d	file:
+DEFAULT_RESERVE_SIZE	libexploit/libpingpong_exploit/exploit.c	24;"	d	file:
+DEVICE_ASUS_TF300T_JRO03C_JP_EPAD_10_4_2_20	device_database/device_database.h	/^  DEVICE_ASUS_TF300T_JRO03C_JP_EPAD_10_4_2_20,$/;"	e	enum:__anon2
+DEVICE_C1505_11_3_A_0_47	device_database/device_database.h	/^  DEVICE_C1505_11_3_A_0_47,$/;"	e	enum:__anon2
+DEVICE_C1505_11_3_A_2_13	device_database/device_database.h	/^  DEVICE_C1505_11_3_A_2_13,$/;"	e	enum:__anon2
+DEVICE_C2104_15_0_A_1_31	device_database/device_database.h	/^  DEVICE_C2104_15_0_A_1_31,$/;"	e	enum:__anon2
+DEVICE_C2104_15_0_A_1_36	device_database/device_database.h	/^  DEVICE_C2104_15_0_A_1_36,$/;"	e	enum:__anon2
+DEVICE_C2105_15_0_A_1_31	device_database/device_database.h	/^  DEVICE_C2105_15_0_A_1_31,$/;"	e	enum:__anon2
+DEVICE_C2105_15_0_A_1_36	device_database/device_database.h	/^  DEVICE_C2105_15_0_A_1_36,$/;"	e	enum:__anon2
+DEVICE_C5302_12_0_A_1_211	device_database/device_database.h	/^  DEVICE_C5302_12_0_A_1_211,$/;"	e	enum:__anon2
+DEVICE_C5302_12_0_A_1_257	device_database/device_database.h	/^  DEVICE_C5302_12_0_A_1_257,$/;"	e	enum:__anon2
+DEVICE_C5302_12_0_A_1_284	device_database/device_database.h	/^  DEVICE_C5302_12_0_A_1_284,$/;"	e	enum:__anon2
+DEVICE_C5303_12_0_A_1_211	device_database/device_database.h	/^  DEVICE_C5303_12_0_A_1_211,$/;"	e	enum:__anon2
+DEVICE_C5303_12_0_A_1_257	device_database/device_database.h	/^  DEVICE_C5303_12_0_A_1_257,$/;"	e	enum:__anon2
+DEVICE_C5303_12_0_A_1_284	device_database/device_database.h	/^  DEVICE_C5303_12_0_A_1_284,$/;"	e	enum:__anon2
+DEVICE_C5306_12_0_A_1_211	device_database/device_database.h	/^  DEVICE_C5306_12_0_A_1_211,$/;"	e	enum:__anon2
+DEVICE_C5306_12_0_A_1_257	device_database/device_database.h	/^  DEVICE_C5306_12_0_A_1_257,$/;"	e	enum:__anon2
+DEVICE_C5306_12_0_A_1_284	device_database/device_database.h	/^  DEVICE_C5306_12_0_A_1_284,$/;"	e	enum:__anon2
+DEVICE_C5502_10_1_1_A_1_310	device_database/device_database.h	/^  DEVICE_C5502_10_1_1_A_1_310,$/;"	e	enum:__anon2
+DEVICE_C5503_10_1_1_A_1_310	device_database/device_database.h	/^  DEVICE_C5503_10_1_1_A_1_310,$/;"	e	enum:__anon2
+DEVICE_C6502_10_3_A_0_423	device_database/device_database.h	/^  DEVICE_C6502_10_3_A_0_423,$/;"	e	enum:__anon2
+DEVICE_C6503_10_3_A_0_423	device_database/device_database.h	/^  DEVICE_C6503_10_3_A_0_423,$/;"	e	enum:__anon2
+DEVICE_C6506_10_3_A_0_423	device_database/device_database.h	/^  DEVICE_C6506_10_3_A_0_423,$/;"	e	enum:__anon2
+DEVICE_C6602_10_1_1_A_1_253	device_database/device_database.h	/^  DEVICE_C6602_10_1_1_A_1_253,$/;"	e	enum:__anon2
+DEVICE_C6602_10_1_1_A_1_307	device_database/device_database.h	/^  DEVICE_C6602_10_1_1_A_1_307,$/;"	e	enum:__anon2
+DEVICE_C6602_10_3_A_0_423	device_database/device_database.h	/^  DEVICE_C6602_10_3_A_0_423,$/;"	e	enum:__anon2
+DEVICE_C6603_10_1_1_A_1_253	device_database/device_database.h	/^  DEVICE_C6603_10_1_1_A_1_253,$/;"	e	enum:__anon2
+DEVICE_C6603_10_1_1_A_1_307	device_database/device_database.h	/^  DEVICE_C6603_10_1_1_A_1_307,$/;"	e	enum:__anon2
+DEVICE_C6603_10_3_A_0_423	device_database/device_database.h	/^  DEVICE_C6603_10_3_A_0_423,$/;"	e	enum:__anon2
+DEVICE_C6606_10_1_1_B_0_166	device_database/device_database.h	/^  DEVICE_C6606_10_1_1_B_0_166,$/;"	e	enum:__anon2
+DEVICE_C6616_10_1_1_A_1_319	device_database/device_database.h	/^  DEVICE_C6616_10_1_1_A_1_319,$/;"	e	enum:__anon2
+DEVICE_DATABASE_FILE	device_database/device_database.c	12;"	d	file:
+DEVICE_DATABASE_LOCAL_PATH	device_database/Android.mk	/^DEVICE_DATABASE_LOCAL_PATH := $(call my-dir)$/;"	m
+DEVICE_F02E_V16R46A	device_database/device_database.h	/^  DEVICE_F02E_V16R46A,$/;"	e	enum:__anon2
+DEVICE_F02E_V17R48A	device_database/device_database.h	/^  DEVICE_F02E_V17R48A,$/;"	e	enum:__anon2
+DEVICE_F02E_V19R50D	device_database/device_database.h	/^  DEVICE_F02E_V19R50D,$/;"	e	enum:__anon2
+DEVICE_F03D_V24R33Cc	device_database/device_database.h	/^  DEVICE_F03D_V24R33Cc,$/;"	e	enum:__anon2
+DEVICE_F04E_V08R39A	device_database/device_database.h	/^  DEVICE_F04E_V08R39A,$/;"	e	enum:__anon2
+DEVICE_F05D_V08R31C	device_database/device_database.h	/^  DEVICE_F05D_V08R31C,$/;"	e	enum:__anon2
+DEVICE_F05D_V11R40A	device_database/device_database.h	/^  DEVICE_F05D_V11R40A,$/;"	e	enum:__anon2
+DEVICE_F05E_V11R35A	device_database/device_database.h	/^  DEVICE_F05E_V11R35A,$/;"	e	enum:__anon2
+DEVICE_F06E_V21R48D	device_database/device_database.h	/^  DEVICE_F06E_V21R48D,$/;"	e	enum:__anon2
+DEVICE_F07E_V19R38A	device_database/device_database.h	/^  DEVICE_F07E_V19R38A,$/;"	e	enum:__anon2
+DEVICE_F07E_V20R39D	device_database/device_database.h	/^  DEVICE_F07E_V20R39D,$/;"	e	enum:__anon2
+DEVICE_F07E_V21R40B	device_database/device_database.h	/^  DEVICE_F07E_V21R40B,$/;"	e	enum:__anon2
+DEVICE_F10D_V10R42A	device_database/device_database.h	/^  DEVICE_F10D_V10R42A,$/;"	e	enum:__anon2
+DEVICE_F10D_V21R48A	device_database/device_database.h	/^  DEVICE_F10D_V21R48A,$/;"	e	enum:__anon2
+DEVICE_F10D_V22R49C	device_database/device_database.h	/^  DEVICE_F10D_V22R49C,$/;"	e	enum:__anon2
+DEVICE_F11D_V21R36A	device_database/device_database.h	/^  DEVICE_F11D_V21R36A,$/;"	e	enum:__anon2
+DEVICE_F11D_V24R40A	device_database/device_database.h	/^  DEVICE_F11D_V24R40A,$/;"	e	enum:__anon2
+DEVICE_F11D_V26R42B	device_database/device_database.h	/^  DEVICE_F11D_V26R42B,$/;"	e	enum:__anon2
+DEVICE_F12C_V21	device_database/device_database.h	/^  DEVICE_F12C_V21,$/;"	e	enum:__anon2
+DEVICE_FJL21_V23R39X	device_database/device_database.h	/^  DEVICE_FJL21_V23R39X,$/;"	e	enum:__anon2
+DEVICE_FJL21_V37R47A	device_database/device_database.h	/^  DEVICE_FJL21_V37R47A,$/;"	e	enum:__anon2
+DEVICE_FJL21_V39R48C	device_database/device_database.h	/^  DEVICE_FJL21_V39R48C,$/;"	e	enum:__anon2
+DEVICE_GTI9195_MF5	device_database/device_database.h	/^  DEVICE_GTI9195_MF5,$/;"	e	enum:__anon2
+DEVICE_HTCONEMAXVZW_1_11_605_4	device_database/device_database.h	/^  DEVICE_HTCONEMAXVZW_1_11_605_4,$/;"	e	enum:__anon2
+DEVICE_HTL21_1_29_970_1	device_database/device_database.h	/^  DEVICE_HTL21_1_29_970_1,$/;"	e	enum:__anon2
+DEVICE_HTL21_1_36_970_1	device_database/device_database.h	/^  DEVICE_HTL21_1_36_970_1,$/;"	e	enum:__anon2
+DEVICE_HTL21_1_39_970_1	device_database/device_database.h	/^  DEVICE_HTL21_1_39_970_1,$/;"	e	enum:__anon2
+DEVICE_HTL21_1_39_970_3	device_database/device_database.h	/^  DEVICE_HTL21_1_39_970_3,$/;"	e	enum:__anon2
+DEVICE_HTL22_1_05_970_2	device_database/device_database.h	/^  DEVICE_HTL22_1_05_970_2,$/;"	e	enum:__anon2
+DEVICE_HTL22_1_07_970_4	device_database/device_database.h	/^  DEVICE_HTL22_1_07_970_4,$/;"	e	enum:__anon2
+DEVICE_HTL22_2_15_970_1	device_database/device_database.h	/^  DEVICE_HTL22_2_15_970_1,$/;"	e	enum:__anon2
+DEVICE_HTL22_2_21_970_2	device_database/device_database.h	/^  DEVICE_HTL22_2_21_970_2,$/;"	e	enum:__anon2
+DEVICE_HTX21_1_20_971_1	device_database/device_database.h	/^  DEVICE_HTX21_1_20_971_1,$/;"	e	enum:__anon2
+DEVICE_HTX21_1_25_971_1	device_database/device_database.h	/^  DEVICE_HTX21_1_25_971_1,$/;"	e	enum:__anon2
+DEVICE_ID_REGISTER_START	device_database/device_database.c	19;"	d	file:
+DEVICE_IS11N_GRJ90	device_database/device_database.h	/^  DEVICE_IS11N_GRJ90,$/;"	e	enum:__anon2
+DEVICE_IS12S_6_1_D_1_103	device_database/device_database.h	/^  DEVICE_IS12S_6_1_D_1_103,$/;"	e	enum:__anon2
+DEVICE_IS12S_6_1_D_1_91	device_database/device_database.h	/^  DEVICE_IS12S_6_1_D_1_91,$/;"	e	enum:__anon2
+DEVICE_IS15SH_01_00_04	device_database/device_database.h	/^  DEVICE_IS15SH_01_00_04,$/;"	e	enum:__anon2
+DEVICE_IS17SH_01_00_03	device_database/device_database.h	/^  DEVICE_IS17SH_01_00_03,$/;"	e	enum:__anon2
+DEVICE_IS17SH_01_00_04	device_database/device_database.h	/^  DEVICE_IS17SH_01_00_04,$/;"	e	enum:__anon2
+DEVICE_ISW11F_V25R45A	device_database/device_database.h	/^  DEVICE_ISW11F_V25R45A,$/;"	e	enum:__anon2
+DEVICE_ISW11F_V27R47I	device_database/device_database.h	/^  DEVICE_ISW11F_V27R47I,$/;"	e	enum:__anon2
+DEVICE_ISW11K_145_0_0002	device_database/device_database.h	/^  DEVICE_ISW11K_145_0_0002,$/;"	e	enum:__anon2
+DEVICE_ISW12K_010_0_3000	device_database/device_database.h	/^  DEVICE_ISW12K_010_0_3000,$/;"	e	enum:__anon2
+DEVICE_ISW12K_011_0_3100	device_database/device_database.h	/^  DEVICE_ISW12K_011_0_3100,$/;"	e	enum:__anon2
+DEVICE_ISW13F_V69R51I	device_database/device_database.h	/^  DEVICE_ISW13F_V69R51I,$/;"	e	enum:__anon2
+DEVICE_ISW13F_V75R58A	device_database/device_database.h	/^  DEVICE_ISW13F_V75R58A,$/;"	e	enum:__anon2
+DEVICE_ISW13HT_2_06_970_4	device_database/device_database.h	/^  DEVICE_ISW13HT_2_06_970_4,$/;"	e	enum:__anon2
+DEVICE_L01D_V20c	device_database/device_database.h	/^  DEVICE_L01D_V20c,$/;"	e	enum:__anon2
+DEVICE_L01D_V20d	device_database/device_database.h	/^  DEVICE_L01D_V20d,$/;"	e	enum:__anon2
+DEVICE_L01D_V20e	device_database/device_database.h	/^  DEVICE_L01D_V20e,$/;"	e	enum:__anon2
+DEVICE_L01E_V10c	device_database/device_database.h	/^  DEVICE_L01E_V10c,$/;"	e	enum:__anon2
+DEVICE_L01E_V20b	device_database/device_database.h	/^  DEVICE_L01E_V20b,$/;"	e	enum:__anon2
+DEVICE_L01F_V10c	device_database/device_database.h	/^  DEVICE_L01F_V10c,$/;"	e	enum:__anon2
+DEVICE_L01F_V11k	device_database/device_database.h	/^  DEVICE_L01F_V11k,$/;"	e	enum:__anon2
+DEVICE_L02E_V10c	device_database/device_database.h	/^  DEVICE_L02E_V10c,$/;"	e	enum:__anon2
+DEVICE_L02E_V10e	device_database/device_database.h	/^  DEVICE_L02E_V10e,$/;"	e	enum:__anon2
+DEVICE_L02E_V20a	device_database/device_database.h	/^  DEVICE_L02E_V20a,$/;"	e	enum:__anon2
+DEVICE_L05D_V20c	device_database/device_database.h	/^  DEVICE_L05D_V20c,$/;"	e	enum:__anon2
+DEVICE_L06D_V10h	device_database/device_database.h	/^  DEVICE_L06D_V10h,$/;"	e	enum:__anon2
+DEVICE_L06D_V10k	device_database/device_database.h	/^  DEVICE_L06D_V10k,$/;"	e	enum:__anon2
+DEVICE_L06D_V10p	device_database/device_database.h	/^  DEVICE_L06D_V10p,$/;"	e	enum:__anon2
+DEVICE_LGL22_V10a	device_database/device_database.h	/^  DEVICE_LGL22_V10a,$/;"	e	enum:__anon2
+DEVICE_LGL22_V10b	device_database/device_database.h	/^  DEVICE_LGL22_V10b,$/;"	e	enum:__anon2
+DEVICE_LGL23_V10d	device_database/device_database.h	/^  DEVICE_LGL23_V10d,$/;"	e	enum:__anon2
+DEVICE_LG_E975_V10e	device_database/device_database.h	/^  DEVICE_LG_E975_V10e,$/;"	e	enum:__anon2
+DEVICE_LT22I_6_2_A_1_100	device_database/device_database.h	/^  DEVICE_LT22I_6_2_A_1_100,$/;"	e	enum:__anon2
+DEVICE_LT25I_9_1_A_1_140	device_database/device_database.h	/^  DEVICE_LT25I_9_1_A_1_140,$/;"	e	enum:__anon2
+DEVICE_LT25I_9_1_A_1_142	device_database/device_database.h	/^  DEVICE_LT25I_9_1_A_1_142,$/;"	e	enum:__anon2
+DEVICE_LT25I_9_1_A_1_145	device_database/device_database.h	/^  DEVICE_LT25I_9_1_A_1_145,$/;"	e	enum:__anon2
+DEVICE_LT26II_6_2_B_0_200	device_database/device_database.h	/^  DEVICE_LT26II_6_2_B_0_200,$/;"	e	enum:__anon2
+DEVICE_LT26II_6_2_B_0_211	device_database/device_database.h	/^  DEVICE_LT26II_6_2_B_0_211,$/;"	e	enum:__anon2
+DEVICE_LT26I_6_2_B_0_200	device_database/device_database.h	/^  DEVICE_LT26I_6_2_B_0_200,$/;"	e	enum:__anon2
+DEVICE_LT26I_6_2_B_0_211	device_database/device_database.h	/^  DEVICE_LT26I_6_2_B_0_211,$/;"	e	enum:__anon2
+DEVICE_LT26I_6_2_B_1_96	device_database/device_database.h	/^  DEVICE_LT26I_6_2_B_1_96,$/;"	e	enum:__anon2
+DEVICE_LT26W_6_2_B_0_200	device_database/device_database.h	/^  DEVICE_LT26W_6_2_B_0_200,$/;"	e	enum:__anon2
+DEVICE_LT26W_6_2_B_0_211	device_database/device_database.h	/^  DEVICE_LT26W_6_2_B_0_211,$/;"	e	enum:__anon2
+DEVICE_LT28H_6_2_B_0_211	device_database/device_database.h	/^  DEVICE_LT28H_6_2_B_0_211,$/;"	e	enum:__anon2
+DEVICE_LT28I_6_2_B_0_211	device_database/device_database.h	/^  DEVICE_LT28I_6_2_B_0_211,$/;"	e	enum:__anon2
+DEVICE_LT29I_9_1_B_0_411	device_database/device_database.h	/^  DEVICE_LT29I_9_1_B_0_411,$/;"	e	enum:__anon2
+DEVICE_LT29I_9_1_B_1_67	device_database/device_database.h	/^  DEVICE_LT29I_9_1_B_1_67,$/;"	e	enum:__anon2
+DEVICE_LT30P_9_1_A_1_141	device_database/device_database.h	/^  DEVICE_LT30P_9_1_A_1_141,$/;"	e	enum:__anon2
+DEVICE_LT30P_9_1_A_1_142	device_database/device_database.h	/^  DEVICE_LT30P_9_1_A_1_142,$/;"	e	enum:__anon2
+DEVICE_LT30P_9_1_A_1_145	device_database/device_database.h	/^  DEVICE_LT30P_9_1_A_1_145,$/;"	e	enum:__anon2
+DEVICE_M35H_12_0_A_1_257	device_database/device_database.h	/^  DEVICE_M35H_12_0_A_1_257,$/;"	e	enum:__anon2
+DEVICE_M36H_10_1_1_A_1_310	device_database/device_database.h	/^  DEVICE_M36H_10_1_1_A_1_310,$/;"	e	enum:__anon2
+DEVICE_N02E_A3002501	device_database/device_database.h	/^  DEVICE_N02E_A3002501,$/;"	e	enum:__anon2
+DEVICE_N02E_A3002601	device_database/device_database.h	/^  DEVICE_N02E_A3002601,$/;"	e	enum:__anon2
+DEVICE_N02E_A5000331	device_database/device_database.h	/^  DEVICE_N02E_A5000331,$/;"	e	enum:__anon2
+DEVICE_N02E_A5002501	device_database/device_database.h	/^  DEVICE_N02E_A5002501,$/;"	e	enum:__anon2
+DEVICE_N02E_A5002601	device_database/device_database.h	/^  DEVICE_N02E_A5002601,$/;"	e	enum:__anon2
+DEVICE_N03E_A7000241	device_database/device_database.h	/^  DEVICE_N03E_A7000241,$/;"	e	enum:__anon2
+DEVICE_N03E_A7001821	device_database/device_database.h	/^  DEVICE_N03E_A7001821,$/;"	e	enum:__anon2
+DEVICE_N03E_A7002001	device_database/device_database.h	/^  DEVICE_N03E_A7002001,$/;"	e	enum:__anon2
+DEVICE_N03E_A7202001	device_database/device_database.h	/^  DEVICE_N03E_A7202001,$/;"	e	enum:__anon2
+DEVICE_N03E_A7202201	device_database/device_database.h	/^  DEVICE_N03E_A7202201,$/;"	e	enum:__anon2
+DEVICE_N05E_A1000311	device_database/device_database.h	/^  DEVICE_N05E_A1000311,$/;"	e	enum:__anon2
+DEVICE_NEC_101T	device_database/device_database.h	/^  DEVICE_NEC_101T,$/;"	e	enum:__anon2
+DEVICE_NEXUS4_JDQ39	device_database/device_database.h	/^  DEVICE_NEXUS4_JDQ39,$/;"	e	enum:__anon2
+DEVICE_NEXUS_JOP40C	device_database/device_database.h	/^  DEVICE_NEXUS_JOP40C,$/;"	e	enum:__anon2
+DEVICE_NEXUS_JZO54K	device_database/device_database.h	/^  DEVICE_NEXUS_JZO54K,$/;"	e	enum:__anon2
+DEVICE_NOT_SUPPORTED	device_database/device_database.h	/^  DEVICE_NOT_SUPPORTED = 0,$/;"	e	enum:__anon2
+DEVICE_P02E_10_0657	device_database/device_database.h	/^  DEVICE_P02E_10_0657,$/;"	e	enum:__anon2
+DEVICE_P02E_10_0659	device_database/device_database.h	/^  DEVICE_P02E_10_0659,$/;"	e	enum:__anon2
+DEVICE_P02E_10_0691	device_database/device_database.h	/^  DEVICE_P02E_10_0691,$/;"	e	enum:__anon2
+DEVICE_P02E_10_0733	device_database/device_database.h	/^  DEVICE_P02E_10_0733,$/;"	e	enum:__anon2
+DEVICE_P02E_10_0767	device_database/device_database.h	/^  DEVICE_P02E_10_0767,$/;"	e	enum:__anon2
+DEVICE_P02E_10_0798	device_database/device_database.h	/^  DEVICE_P02E_10_0798,$/;"	e	enum:__anon2
+DEVICE_P03E_10_1010	device_database/device_database.h	/^  DEVICE_P03E_10_1010,$/;"	e	enum:__anon2
+DEVICE_SBM203SH_S0024	device_database/device_database.h	/^  DEVICE_SBM203SH_S0024,$/;"	e	enum:__anon2
+DEVICE_SC01E_LJ3	device_database/device_database.h	/^  DEVICE_SC01E_LJ3,$/;"	e	enum:__anon2
+DEVICE_SC01E_MF2	device_database/device_database.h	/^  DEVICE_SC01E_MF2,$/;"	e	enum:__anon2
+DEVICE_SC04E_MDI	device_database/device_database.h	/^  DEVICE_SC04E_MDI,$/;"	e	enum:__anon2
+DEVICE_SC04E_MF1	device_database/device_database.h	/^  DEVICE_SC04E_MF1,$/;"	e	enum:__anon2
+DEVICE_SC04E_MF2	device_database/device_database.h	/^  DEVICE_SC04E_MF2,$/;"	e	enum:__anon2
+DEVICE_SC04E_MG2	device_database/device_database.h	/^  DEVICE_SC04E_MG2,$/;"	e	enum:__anon2
+DEVICE_SC05D_LPL	device_database/device_database.h	/^  DEVICE_SC05D_LPL,$/;"	e	enum:__anon2
+DEVICE_SCH_I545_VZWAME7	device_database/device_database.h	/^  DEVICE_SCH_I545_VZWAME7,$/;"	e	enum:__anon2
+DEVICE_SCL21_LJD	device_database/device_database.h	/^  DEVICE_SCL21_LJD,$/;"	e	enum:__anon2
+DEVICE_SGP311_10_1_C_0_370	device_database/device_database.h	/^  DEVICE_SGP311_10_1_C_0_370,$/;"	e	enum:__anon2
+DEVICE_SGP312_10_1_C_0_370	device_database/device_database.h	/^  DEVICE_SGP312_10_1_C_0_370,$/;"	e	enum:__anon2
+DEVICE_SGP321_10_1_1_A_1_307	device_database/device_database.h	/^  DEVICE_SGP321_10_1_1_A_1_307,$/;"	e	enum:__anon2
+DEVICE_SH02E_02_00_02	device_database/device_database.h	/^  DEVICE_SH02E_02_00_02,$/;"	e	enum:__anon2
+DEVICE_SH02E_02_00_03	device_database/device_database.h	/^  DEVICE_SH02E_02_00_03,$/;"	e	enum:__anon2
+DEVICE_SH04E_01_00_02	device_database/device_database.h	/^  DEVICE_SH04E_01_00_02,$/;"	e	enum:__anon2
+DEVICE_SH04E_01_00_03	device_database/device_database.h	/^  DEVICE_SH04E_01_00_03,$/;"	e	enum:__anon2
+DEVICE_SH04E_01_00_04	device_database/device_database.h	/^  DEVICE_SH04E_01_00_04,$/;"	e	enum:__anon2
+DEVICE_SH05E_01_00_05	device_database/device_database.h	/^  DEVICE_SH05E_01_00_05,$/;"	e	enum:__anon2
+DEVICE_SH05E_01_00_06	device_database/device_database.h	/^  DEVICE_SH05E_01_00_06,$/;"	e	enum:__anon2
+DEVICE_SH06E_01_00_01	device_database/device_database.h	/^  DEVICE_SH06E_01_00_01,$/;"	e	enum:__anon2
+DEVICE_SH06E_01_00_05	device_database/device_database.h	/^  DEVICE_SH06E_01_00_05,$/;"	e	enum:__anon2
+DEVICE_SH06E_01_00_06	device_database/device_database.h	/^  DEVICE_SH06E_01_00_06,$/;"	e	enum:__anon2
+DEVICE_SH06E_01_00_07	device_database/device_database.h	/^  DEVICE_SH06E_01_00_07,$/;"	e	enum:__anon2
+DEVICE_SH07E_01_00_03	device_database/device_database.h	/^  DEVICE_SH07E_01_00_03,$/;"	e	enum:__anon2
+DEVICE_SH09D_02_00_03	device_database/device_database.h	/^  DEVICE_SH09D_02_00_03,$/;"	e	enum:__anon2
+DEVICE_SHL21_01_00_09	device_database/device_database.h	/^  DEVICE_SHL21_01_00_09,$/;"	e	enum:__anon2
+DEVICE_SHL21_01_01_02	device_database/device_database.h	/^  DEVICE_SHL21_01_01_02,$/;"	e	enum:__anon2
+DEVICE_SO01E_9_1_C_0_473	device_database/device_database.h	/^  DEVICE_SO01E_9_1_C_0_473,$/;"	e	enum:__anon2
+DEVICE_SO01E_9_1_C_1_103	device_database/device_database.h	/^  DEVICE_SO01E_9_1_C_1_103,$/;"	e	enum:__anon2
+DEVICE_SO02E_10_1_D_0_343	device_database/device_database.h	/^  DEVICE_SO02E_10_1_D_0_343,$/;"	e	enum:__anon2
+DEVICE_SO03E_10_1_E_0_265	device_database/device_database.h	/^  DEVICE_SO03E_10_1_E_0_265,$/;"	e	enum:__anon2
+DEVICE_SO03E_10_1_E_0_269	device_database/device_database.h	/^  DEVICE_SO03E_10_1_E_0_269,$/;"	e	enum:__anon2
+DEVICE_SO04D_7_0_D_1_137	device_database/device_database.h	/^  DEVICE_SO04D_7_0_D_1_137,$/;"	e	enum:__anon2
+DEVICE_SO04D_9_1_C_0_475	device_database/device_database.h	/^  DEVICE_SO04D_9_1_C_0_475,$/;"	e	enum:__anon2
+DEVICE_SO04D_9_1_C_1_103	device_database/device_database.h	/^  DEVICE_SO04D_9_1_C_1_103,$/;"	e	enum:__anon2
+DEVICE_SO04E_10_1_1_D_0_179	device_database/device_database.h	/^  DEVICE_SO04E_10_1_1_D_0_179,$/;"	e	enum:__anon2
+DEVICE_SO04E_10_1_1_D_2_26	device_database/device_database.h	/^  DEVICE_SO04E_10_1_1_D_2_26,$/;"	e	enum:__anon2
+DEVICE_SO05D_7_0_D_1_117	device_database/device_database.h	/^  DEVICE_SO05D_7_0_D_1_117,$/;"	e	enum:__anon2
+DEVICE_SO05D_7_0_D_1_137	device_database/device_database.h	/^  DEVICE_SO05D_7_0_D_1_137,$/;"	e	enum:__anon2
+DEVICE_SO05D_9_1_C_0_475	device_database/device_database.h	/^  DEVICE_SO05D_9_1_C_0_475,$/;"	e	enum:__anon2
+DEVICE_SO05D_9_1_C_1_103	device_database/device_database.h	/^  DEVICE_SO05D_9_1_C_1_103,$/;"	e	enum:__anon2
+DEVICE_SOL21_9_0_F_0_226	device_database/device_database.h	/^  DEVICE_SOL21_9_0_F_0_226,$/;"	e	enum:__anon2
+DEVICE_SOL21_9_1_D_0_395	device_database/device_database.h	/^  DEVICE_SOL21_9_1_D_0_395,$/;"	e	enum:__anon2
+DEVICE_SOL21_9_1_D_0_401	device_database/device_database.h	/^  DEVICE_SOL21_9_1_D_0_401,$/;"	e	enum:__anon2
+DEVICE_SOL22_10_2_F_3_43	device_database/device_database.h	/^  DEVICE_SOL22_10_2_F_3_43,$/;"	e	enum:__anon2
+DEVICE_SOL22_10_2_F_3_81	device_database/device_database.h	/^  DEVICE_SOL22_10_2_F_3_81,$/;"	e	enum:__anon2
+DEVICE_SONYTABLET_P_RELEASE5A	device_database/device_database.h	/^  DEVICE_SONYTABLET_P_RELEASE5A,$/;"	e	enum:__anon2
+DEVICE_SONYTABLET_S_RELEASE5A	device_database/device_database.h	/^  DEVICE_SONYTABLET_S_RELEASE5A,$/;"	e	enum:__anon2
+DEVICE_ST23I_11_0_A_5_5	device_database/device_database.h	/^  DEVICE_ST23I_11_0_A_5_5,$/;"	e	enum:__anon2
+DEVICE_ST23I_11_0_A_5_8	device_database/device_database.h	/^  DEVICE_ST23I_11_0_A_5_8,$/;"	e	enum:__anon2
+DEVICE_ST26A_11_2_A_0_21	device_database/device_database.h	/^  DEVICE_ST26A_11_2_A_0_21,$/;"	e	enum:__anon2
+DEVICE_ST26A_11_2_A_0_31	device_database/device_database.h	/^  DEVICE_ST26A_11_2_A_0_31,$/;"	e	enum:__anon2
+DEVICE_ST26I_11_2_A_0_21	device_database/device_database.h	/^  DEVICE_ST26I_11_2_A_0_21,$/;"	e	enum:__anon2
+DEVICE_ST26I_11_2_A_0_31	device_database/device_database.h	/^  DEVICE_ST26I_11_2_A_0_31,$/;"	e	enum:__anon2
+DEVICE_ST27A_6_2_A_1_100	device_database/device_database.h	/^  DEVICE_ST27A_6_2_A_1_100,$/;"	e	enum:__anon2
+DEVICE_ST27I_6_2_A_1_100	device_database/device_database.h	/^  DEVICE_ST27I_6_2_A_1_100,$/;"	e	enum:__anon2
+DEVICE_SYMBOL	device_database/device_database.h	208;"	d
+DEVICE_T02D_V10R36A	device_database/device_database.h	/^  DEVICE_T02D_V10R36A,$/;"	e	enum:__anon2
+DIAG_H	libexploit/libdiagexploit/diag.h	19;"	d
+DIAG_IOCTL_GET_DELAYED_RSP_ID	libexploit/libdiagexploit/diag.c	42;"	d	file:
+FB_DEVICE	libexploit/libfb_mem_exploit/fb_mem.c	33;"	d	file:
+FB_MEM_H	libexploit/libfb_mem_exploit/fb_mem.h	19;"	d
+FUTEX_CMP_REQUEUE_PI	libexploit/libfutex_exploit/exploit.c	39;"	d	file:
+FUTEX_H	libexploit/libfutex_exploit/futex.h	2;"	d
+FUTEX_REQUEUE_MAX_REQUEST_COUNT	libexploit/libfutex_exploit/futex.h	6;"	d
+FUTEX_WAIT_REQUEUE_PI	libexploit/libfutex_exploit/exploit.c	38;"	d	file:
+GET_USER_H	libexploit/libget_user_exploit/get_user.h	2;"	d
+HAS_SET_SYMBOL_ADDRESS	device_database/device_database.h	212;"	d
+INADDR_LOOPBACK	libexploit/CVE-2015-1805/CVE-2015-1805.c	15;"	d	file:
+IS_SQL_ERROR	device_database/device_database.c	39;"	d	file:
+KALLSYMS_H	kallsyms.h	19;"	d
+KERNEL_END	libexploit/libfutex_exploit/futex.c	14;"	d	file:
+KERNEL_END	libexploit/libpingpong_exploit/pingpong.c	8;"	d	file:
+KERNEL_PHYS_ADDRESS	libexploit/libfj_hdcp_exploit/fj_hdcp.c	20;"	d	file:
+KERNEL_SIZE	libexploit/exploit.c	38;"	d	file:
+KERNEL_SIZE	libexploit/libfj_hdcp_exploit/fj_hdcp.c	21;"	d	file:
+KERNEL_SIZE	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	46;"	d	file:
+KERNEL_SIZE	mm.c	13;"	d	file:
+KERNEL_START	libexploit/libfutex_exploit/futex.c	13;"	d	file:
+KERNEL_START	libexploit/libpingpong_exploit/pingpong.c	7;"	d	file:
+KERNEL_START	main.c	23;"	d	file:
+KERNEL_TEXT_ADDRESS	libexploit/libfj_hdcp_exploit/fj_hdcp.c	27;"	d	file:
+KERNEL_VIRT_ADDRESS	libexploit/libfb_mem_exploit/fb_mem.c	35;"	d	file:
+KERNEL_VIRT_ADDRESS	libexploit/libfj_hdcp_exploit/fj_hdcp.c	19;"	d	file:
+KERNEL_VIRT_ADDRESS	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	44;"	d	file:
+LIST_POISON2	libexploit/libpingpong_exploit/exploit.c	45;"	d	file:
+LOCAL_C_INCLUDES	libexploit/libmsm_acdb_exploit/Android.mk	/^LOCAL_C_INCLUDES := device_database$/;"	m
+LOCAL_C_INCLUDES	libexploit/libperf_event_exploit/Android.mk	/^LOCAL_C_INCLUDES := device_database$/;"	m
+LOCAL_MODULE	Android.mk	/^LOCAL_MODULE := run_root_shell$/;"	m
+LOCAL_MODULE	device_database/Android.mk	/^LOCAL_MODULE := libdevice_database$/;"	m
+LOCAL_MODULE	libexploit/Android.mk	/^LOCAL_MODULE := libexploit$/;"	m
+LOCAL_MODULE	libexploit/CVE-2015-1805/Android.mk	/^LOCAL_MODULE := CVE-2015-1805   $/;"	m
+LOCAL_MODULE	libexploit/libdiagexploit/Android.mk	/^LOCAL_MODULE := libdiagexploit$/;"	m
+LOCAL_MODULE	libexploit/libexploit_utils/Android.mk	/^LOCAL_MODULE := libexploit_utils$/;"	m
+LOCAL_MODULE	libexploit/libfb_mem_exploit/Android.mk	/^LOCAL_MODULE := libfb_mem_exploit$/;"	m
+LOCAL_MODULE	libexploit/libfj_hdcp_exploit/Android.mk	/^LOCAL_MODULE := libfj_hdcp_exploit$/;"	m
+LOCAL_MODULE	libexploit/libfutex_exploit/Android.mk	/^LOCAL_MODULE := libfutex_exploit$/;"	m
+LOCAL_MODULE	libexploit/libget_user_exploit/Android.mk	/^LOCAL_MODULE := libget_user_exploit$/;"	m
+LOCAL_MODULE	libexploit/libmsm_acdb_exploit/Android.mk	/^LOCAL_MODULE := libmsm_acdb_exploit$/;"	m
+LOCAL_MODULE	libexploit/libmsm_cameraconfig_exploit/Android.mk	/^LOCAL_MODULE := libmsm_cameraconfig_exploit$/;"	m
+LOCAL_MODULE	libexploit/libperf_event_exploit/Android.mk	/^LOCAL_MODULE := libperf_event_exploit$/;"	m
+LOCAL_MODULE	libexploit/libpingpong_exploit/Android.mk	/^LOCAL_MODULE := libpingpong_exploit$/;"	m
+LOCAL_MODULE	libexploit/libput_user_exploit/Android.mk	/^LOCAL_MODULE := libput_user_exploit$/;"	m
+LOCAL_MODULE	libkallsyms/Android.mk	/^LOCAL_MODULE := libkallsyms$/;"	m
+LOCAL_MODULE_TAGS	Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	device_database/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libdiagexploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libexploit_utils/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libfb_mem_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libfj_hdcp_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libfutex_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libget_user_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libmsm_acdb_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libmsm_cameraconfig_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libperf_event_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libpingpong_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libexploit/libput_user_exploit/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_MODULE_TAGS	libkallsyms/Android.mk	/^LOCAL_MODULE_TAGS := optional$/;"	m
+LOCAL_PATH	Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	device_database/Android.mk	/^LOCAL_PATH := $(DEVICE_DATABASE_LOCAL_PATH)$/;"	m
+LOCAL_PATH	libexploit/Android.mk	/^LOCAL_PATH := $(MY_LOCAL_PATH)$/;"	m
+LOCAL_PATH	libexploit/CVE-2015-1805/Android.mk	/^LOCAL_PATH := $(call my-dir)  $/;"	m
+LOCAL_PATH	libexploit/libdiagexploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libexploit_utils/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libfb_mem_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libfj_hdcp_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libfutex_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libget_user_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libmsm_acdb_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libmsm_cameraconfig_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libperf_event_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libpingpong_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libexploit/libput_user_exploit/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PATH	libkallsyms/Android.mk	/^LOCAL_PATH := $(call my-dir)$/;"	m
+LOCAL_PORT	libexploit/libfutex_exploit/exploit.c	45;"	d	file:
+LOCAL_SRC_FILES	Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	device_database/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/CVE-2015-1805/Android.mk	/^LOCAL_SRC_FILES := CVE-2015-1805.c   $/;"	m
+LOCAL_SRC_FILES	libexploit/libdiagexploit/Android.mk	/^LOCAL_SRC_FILES := diag.c$/;"	m
+LOCAL_SRC_FILES	libexploit/libexploit_utils/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libfb_mem_exploit/Android.mk	/^LOCAL_SRC_FILES := fb_mem.c$/;"	m
+LOCAL_SRC_FILES	libexploit/libfj_hdcp_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libfutex_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libget_user_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libmsm_acdb_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libmsm_cameraconfig_exploit/Android.mk	/^LOCAL_SRC_FILES := msm_cameraconfig.c$/;"	m
+LOCAL_SRC_FILES	libexploit/libperf_event_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libpingpong_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libexploit/libput_user_exploit/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_SRC_FILES	libkallsyms/Android.mk	/^LOCAL_SRC_FILES := \\$/;"	m
+LOCAL_STATIC_LIBRARIES	Android.mk	/^LOCAL_STATIC_LIBRARIES := libdevice_database$/;"	m
+LOCAL_STATIC_LIBRARIES	libexploit/libdiagexploit/Android.mk	/^LOCAL_STATIC_LIBRARIES := libdevice_database$/;"	m
+MADV_MERGEABLE	libexploit/mmap.c	33;"	d	file:
+MAPPED_BASE	libexploit/libfb_mem_exploit/fb_mem.c	36;"	d	file:
+MAPPED_BASE	libexploit/libfj_hdcp_exploit/fj_hdcp.c	22;"	d	file:
+MAPPED_BASE	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	45;"	d	file:
+MAPPED_OFFSET	libexploit/libfj_hdcp_exploit/fj_hdcp.c	23;"	d	file:
+MAX_CHILDREN_PROCESS	libexploit/libpingpong_exploit/exploit.c	15;"	d	file:
+MAX_CHILDREN_SOCKETS	libexploit/libpingpong_exploit/exploit.c	16;"	d	file:
+MAX_MMAPS	libexploit/libpingpong_exploit/exploit.c	17;"	d	file:
+MAX_RACE_SECS	libexploit/CVE-2015-1805/CVE-2015-1805.c	38;"	d	file:
+MAX_TRY_CONTORL_SK	libexploit/libpingpong_exploit/exploit.c	19;"	d	file:
+MIN	libexploit/libperf_event_exploit/perf_event.c	124;"	d	file:
+MMAP2_SHIFT	libexploit/mmap.c	40;"	d	file:
+MMAP_BASE	libexploit/CVE-2015-1805/CVE-2015-1805.c	21;"	d	file:
+MMAP_BASE	libexploit/libpingpong_exploit/exploit.c	21;"	d	file:
+MMAP_MAPPED	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	MMAP_MAPPED = 0,$/;"	e	enum:mmap_status_t	file:
+MMAP_SIZE	libexploit/CVE-2015-1805/CVE-2015-1805.c	20;"	d	file:
+MMAP_SIZE	libexploit/libpingpong_exploit/exploit.c	22;"	d	file:
+MMAP_START	libexploit/CVE-2015-1805/CVE-2015-1805.c	19;"	d	file:
+MMAP_UNMAPPED	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	MMAP_UNMAPPED$/;"	e	enum:mmap_status_t	file:
+MM_H	mm.h	19;"	d
+MSM_CAMERACONFIG_EXPLOIT_H	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.h	2;"	d
+MSM_CAM_IOCTL_MAGIC	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	31;"	d	file:
+MSM_CAM_IOCTL_SET_MEM_MAP_INFO	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	39;"	d	file:
+MSM_MEM_MMAP	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	42;"	d	file:
+MY_LOCAL_PATH	libexploit/Android.mk	/^MY_LOCAL_PATH := $(call my-dir)$/;"	m
+NR_MMAPS	libexploit/CVE-2015-1805/CVE-2015-1805.c	22;"	d	file:
+NR_PIPES	libexploit/CVE-2015-1805/CVE-2015-1805.c	37;"	d	file:
+NR_SOCKS	libexploit/CVE-2015-1805/CVE-2015-1805.c	46;"	d	file:
+NSEC_PER_SEC	libexploit/libpingpong_exploit/exploit.c	43;"	d	file:
+OFFSET_MC_LIST	libexploit/libpingpong_exploit/exploit.c	32;"	d	file:
+OFFSET_SK_PROT	libexploit/libpingpong_exploit/exploit.c	30;"	d	file:
+OFFSET_SK_STAMP	libexploit/libpingpong_exploit/exploit.c	31;"	d	file:
+OOM_DISABLE	libexploit/libexploit_utils/protect_from_oom_killer.c	7;"	d	file:
+OOM_DISABLE	libexploit/libpingpong_exploit/exploit.c	41;"	d	file:
+OVERFLOW_BUFFER_SIZE	libexploit/libmsm_acdb_exploit/acdb.c	57;"	d	file:
+PAGE_OFFSET	libexploit/exploit.c	37;"	d	file:
+PAGE_OFFSET	libexploit/libfj_hdcp_exploit/fj_hdcp.c	/^static uint32_t PAGE_OFFSET = (KERNEL_VIRT_ADDRESS - KERNEL_PHYS_ADDRESS + MAPPED_OFFSET);$/;"	v	file:
+PAGE_OFFSET	mm.c	12;"	d	file:
+PAGE_SHIFT	mm.c	43;"	d	file:
+PATTERN_MAX	libkallsyms/kallsyms_in_memory.c	27;"	d	file:
+PERF_EVENT_H	libexploit/libperf_event_exploit/perf_event.h	19;"	d
+PERF_SWEVENT_H	libexploit/libperf_event_exploit/perf_swevent.h	19;"	d
+PERF_SWEVENT_MAX_FILE	libexploit/libperf_event_exploit/perf_event.c	14;"	d	file:
+PHYS_SIZE	libexploit/libfj_hdcp_exploit/fj_hdcp.c	25;"	d	file:
+PINGPONG_H	libexploit/libpingpong_exploit/pingpong.h	2;"	d
+PINGPONG_MAX_REQUEST_COUNT	libexploit/libpingpong_exploit/pingpong.h	6;"	d
+PTMX_DEVICE	ptmx.h	24;"	d
+PTMX_H	ptmx.h	19;"	d
+READ_END	libexploit/libperf_event_exploit/perf_event.c	/^  READ_END,$/;"	e	enum:__anon3	file:
+REQUEST_MAGIC	libexploit/libfutex_exploit/futex.c	9;"	d	file:
+RESULT_MAGIC	libexploit/libfutex_exploit/futex.c	10;"	d	file:
+SERVER_PORT	libexploit/libfutex_exploit/futex.c	11;"	d	file:
+SIGNAL_HACK_KERNEL	libexploit/libfutex_exploit/exploit.c	47;"	d	file:
+SIOCGSTAMPNS	libexploit/libpingpong_exploit/exploit.c	38;"	d	file:
+SLEEP_UTIME_FOR_BUSY	device_database/device_database.c	20;"	d	file:
+SQL_QUERY_DEVICE	device_database/device_database.c	22;"	d	file:
+SQL_QUERY_DEVICE_ADDRESS	device_database/device_database.c	26;"	d	file:
+SQL_QUERY_LAST_DEVICE_ID	device_database/device_database.c	29;"	d	file:
+SQL_REGISTER_DEVICE	device_database/device_database.c	32;"	d	file:
+SQL_REGISTER_DEVICE_ADDRESS	device_database/device_database.c	36;"	d	file:
+THREAD_SIZE	libexploit/libexploit_utils/hack_addr_limit.c	4;"	d	file:
+THREAD_SIZE	main.c	21;"	d	file:
+TIMESTAMP_MAGIC	libexploit/libpingpong_exploit/exploit.c	26;"	d	file:
+TOP_SRCDIR	Android.mk	/^TOP_SRCDIR := $(abspath $(LOCAL_PATH))$/;"	m
+UDP_SERVER_PORT	libexploit/CVE-2015-1805/CVE-2015-1805.c	100;"	d	file:
+USER_PRIO_BASE	libexploit/libfutex_exploit/exploit.c	41;"	d	file:
+VROOT_H	libexploit/libput_user_exploit/put_user.h	2;"	d
+VUL_SOCK_CLOSED	libexploit/libpingpong_exploit/exploit.c	35;"	d	file:
+VUL_SOCK_END	libexploit/libpingpong_exploit/exploit.c	34;"	d	file:
+WRITE_END	libexploit/libperf_event_exploit/perf_event.c	/^  WRITE_END,$/;"	e	enum:__anon3	file:
+_GNU_SOURCE	libexploit/CVE-2015-1805/CVE-2015-1805.c	1;"	d	file:
+_LARGEFILE64_SOURCE	libkallsyms/kallsyms_in_memory.c	1;"	d	file:
+_LARGEFILE64_SOURCE	main.c	7;"	d	file:
+__ANDROID_DEVICE_DATABASE_H__	device_database/device_database.h	2;"	d
+__EXPLOIT_H__	libexploit/exploit.h	19;"	d
+__KALLSYMSPRINT_H__	libkallsyms/kallsyms_in_memory.h	2;"	d
+__NR_perf_event_open	libexploit/libperf_event_exploit/perf_event.c	17;"	d	file:
+__system_property_get	device_database/device_database.c	500;"	d	file:
+__system_property_get	device_database/device_database.h	7;"	d
+_acdb_param	libexploit/libmsm_acdb_exploit/acdb.c	/^typedef struct _acdb_param {$/;"	s	file:
+_callback_info_t	libexploit/exploit.c	/^typedef struct _callback_info_t {$/;"	s	file:
+_callback_memory_exploit_info_t	mm.c	/^typedef struct _callback_memory_exploit_info_t {$/;"	s	file:
+_find_ptmx_fops_hint_t	ptmx.h	/^typedef struct _find_ptmx_fops_hint_t {$/;"	s
+_kallsyms	libkallsyms/kallsyms_in_memory.c	/^struct _kallsyms {$/;"	s	file:
+_param_pair	libexploit/libmsm_acdb_exploit/acdb.c	/^typedef struct _param_pair {$/;"	s	file:
+acdb_ioctl	libexploit/libmsm_acdb_exploit/acdb.c	/^struct acdb_ioctl {$/;"	s	file:
+acdb_param	libexploit/libmsm_acdb_exploit/acdb.c	/^} acdb_param;$/;"	t	typeref:struct:_acdb_param	file:
+acdb_run_exploit	libexploit/libmsm_acdb_exploit/acdb.c	/^acdb_run_exploit(unsigned long int address, int value,$/;"	f
+acdb_write_value_at_address	libexploit/libmsm_acdb_exploit/acdb.c	/^acdb_write_value_at_address(unsigned long address, int value)$/;"	f
+addr_limit	libexploit/libexploit_utils/hack_addr_limit.c	/^  unsigned long addr_limit;$/;"	m	struct:thread_info	file:
+addr_limit	libexploit/libfutex_exploit/exploit.c	/^  unsigned long addr_limit;$/;"	m	struct:thread_info	file:
+addr_limit	main.c	/^  unsigned long addr_limit;$/;"	m	struct:thread_info	file:
+address	libexploit/libdiagexploit/diag.h	/^  unsigned int address;$/;"	m	struct:diag_values
+address	libexploit/libfutex_exploit/futex.c	/^  unsigned long address;$/;"	m	struct:kernel_memory_request_t	file:
+address_pos	libexploit/libmsm_acdb_exploit/acdb.c	/^  int address_pos;$/;"	m	struct:_acdb_param	file:
+addresses	libkallsyms/kallsyms_in_memory.c	/^  unsigned long *addresses;$/;"	m	struct:_kallsyms	file:
+attempt_acdb_exploit	libexploit/exploit.c	/^attempt_acdb_exploit(unsigned long int address,$/;"	f	file:
+attempt_diag_exploit	libexploit/exploit.c	/^attempt_diag_exploit(unsigned long int address,$/;"	f	file:
+attempt_exploit	libexploit/exploit.c	/^attempt_exploit(unsigned long int address,$/;"	f
+attempt_fb_mem_exploit	libexploit/exploit.c	/^attempt_fb_mem_exploit(unsigned long int address,$/;"	f	file:
+attempt_fj_hdcp_exploit	libexploit/exploit.c	/^attempt_fj_hdcp_exploit(unsigned long int address,$/;"	f	file:
+attempt_futex_exploit	libexploit/exploit.c	/^attempt_futex_exploit(unsigned long int address,$/;"	f	file:
+attempt_memcpy_exploit	libexploit/exploit.c	/^attempt_memcpy_exploit(exploit_memory_callback_t callback_func, void *callback_param)$/;"	f
+attempt_mmap_exploit	libexploit/exploit.c	/^attempt_mmap_exploit(exploit_memory_callback_t callback_func, void *callback_param)$/;"	f
+attempt_mmap_fb_mem_exploit	libexploit/exploit.c	/^attempt_mmap_fb_mem_exploit(exploit_memory_callback_t callback_func, void *callback_param)$/;"	f	file:
+attempt_mmap_msm_cameraconfig_exploit	libexploit/exploit.c	/^attempt_mmap_msm_cameraconfig_exploit(exploit_memory_callback_t callback_func, void *callback_param)$/;"	f	file:
+attempt_msm_cameraconfig_exploit	libexploit/exploit.c	/^attempt_msm_cameraconfig_exploit(unsigned long int address,$/;"	f	file:
+attempt_pingpong_exploit	libexploit/exploit.c	/^attempt_pingpong_exploit(unsigned long int address,$/;"	f	file:
+attempt_put_user_exploit	libexploit/exploit.c	/^attempt_put_user_exploit(unsigned long int address,$/;"	f	file:
+base	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	size_t base;$/;"	m	struct:mmap_info_t	file:
+base	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^	void *base;$/;"	m	struct:payload	file:
+buf	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^	char buf[52];$/;"	m	struct:payload	file:
+call_futex_lock_pi_with_priority	libexploit/libfutex_exploit/exploit.c	/^call_futex_lock_pi_with_priority(void *arg)$/;"	f	file:
+callback_info_t	libexploit/exploit.c	/^} callback_info_t;$/;"	t	typeref:struct:_callback_info_t	file:
+callback_memory_exploit_info_t	mm.c	/^} callback_memory_exploit_info_t;$/;"	t	typeref:struct:_callback_memory_exploit_info_t	file:
+cap	main.c	/^  unsigned long cap[2];$/;"	m	struct:kernel_cap_struct	file:
+cap_bset	main.c	/^  struct kernel_cap_struct cap_bset;$/;"	m	struct:cred	typeref:struct:cred::kernel_cap_struct	file:
+cap_effective	main.c	/^  struct kernel_cap_struct cap_effective;$/;"	m	struct:cred	typeref:struct:cred::kernel_cap_struct	file:
+cap_inheritable	main.c	/^  struct kernel_cap_struct cap_inheritable;$/;"	m	struct:cred	typeref:struct:cred::kernel_cap_struct	file:
+cap_permitted	main.c	/^  struct kernel_cap_struct cap_permitted;$/;"	m	struct:cred	typeref:struct:cred::kernel_cap_struct	file:
+child_process	libexploit/libperf_event_exploit/perf_event.c	/^static pid_t *child_process;$/;"	v	file:
+child_status_t	libexploit/libpingpong_exploit/exploit.c	/^struct child_status_t {$/;"	s	file:
+client_to_setup_rt_waiter	libexploit/libfutex_exploit/exploit.c	/^client_to_setup_rt_waiter(void *waiter_plist)$/;"	f	file:
+close_all_fds_except_pipe	libexploit/libpingpong_exploit/exploit.c	/^close_all_fds_except_pipe(int pipe_write, int num_fds)$/;"	f	file:
+close_child_sockets	libexploit/libpingpong_exploit/exploit.c	/^close_child_sockets(int pipe_read, pid_t pid)$/;"	f	file:
+close_database	device_database/device_database.c	/^close_database(void)$/;"	f	file:
+close_icmp_socket	libexploit/libpingpong_exploit/exploit.c	/^close_icmp_socket(int sock)$/;"	f	file:
+comm	main.c	/^  char comm[16];$/;"	m	struct:task_struct_partial	file:
+commit_creds	cred.c	/^commit_creds_t commit_creds;$/;"	v
+commit_creds_asm	cred.c	/^static uint32_t commit_creds_asm[] = { 0xe92d4070, 0xe1a0200d, 0xe3c23d7f, 0xe1a05000 };$/;"	v	file:
+commit_creds_asm_length	cred.c	/^static size_t commit_creds_asm_length = sizeof(prepare_kernel_cred_asm);$/;"	v	file:
+commit_creds_t	cred.h	/^typedef int (*commit_creds_t)(struct cred *);$/;"	t
+connect_server_socket	libexploit/libfutex_exploit/exploit.c	/^connect_server_socket(void)$/;"	f	file:
+convert_to_kernel_address	libexploit/libfj_hdcp_exploit/fj_hdcp.c	/^convert_to_kernel_address(void *address, void *mmap_base_address)$/;"	f	file:
+convert_to_kernel_address	mm.c	/^convert_to_kernel_address(void *address, void *mmap_base_address)$/;"	f
+convert_to_mmaped_address	libexploit/libfj_hdcp_exploit/fj_hdcp.c	/^convert_to_mmaped_address(void *address, void *mmap_base_address)$/;"	f	file:
+convert_to_mmaped_address	mm.c	/^convert_to_mmaped_address(void *address, void *mmap_base_address)$/;"	f
+cookie	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^    uint32_t cookie;$/;"	m	struct:msm_mem_map_info	file:
+count	libexploit/libfutex_exploit/futex.c	/^  int count;$/;"	m	struct:kernel_memory_request_t	file:
+cpu_timers	main.c	/^  struct list_head cpu_timers[3];$/;"	m	struct:task_struct_partial	typeref:struct:task_struct_partial::list_head	file:
+create_child	libexploit/libpingpong_exploit/exploit.c	/^create_child(int *pipe_read, int num_fds, pid_t *pid, int *num_socks_created)$/;"	f	file:
+create_icmp_socket	libexploit/libpingpong_exploit/exploit.c	/^create_icmp_socket(void)$/;"	f	file:
+create_server_socket	libexploit/libfutex_exploit/futex.c	/^static bool create_server_socket(void)$/;"	f	file:
+create_sid	main.c	/^  unsigned long create_sid;$/;"	m	struct:task_security_struct	file:
+create_vul_sockets	libexploit/libpingpong_exploit/exploit.c	/^create_vul_sockets(void)$/;"	f
+cred	main.c	/^  struct cred *cred;$/;"	m	struct:task_struct_partial	typeref:struct:task_struct_partial::cred	file:
+cred	main.c	/^struct cred {$/;"	s	file:
+current_process_number	libexploit/libperf_event_exploit/perf_event.c	/^static int current_process_number;$/;"	v	file:
+current_thread_info	libexploit/libexploit_utils/hack_addr_limit.c	/^current_thread_info(void)$/;"	f	file:
+current_thread_info	main.c	/^current_thread_info(void)$/;"	f	file:
+data	libexploit/libmsm_acdb_exploit/acdb.c	/^    char data[OVERFLOW_BUFFER_SIZE];$/;"	m	struct:acdb_ioctl	file:
+db	device_database/device_database.c	/^static sqlite3 *db;$/;"	v	file:
+default_kernel_physical_offset	libexploit/exploit.c	/^static unsigned long int default_kernel_physical_offset = 0x80208000;$/;"	v	file:
+detect_device	device_database/device_database.c	/^detect_device(void)$/;"	f
+detect_kernel_phys_address_from_cpuinfo	libexploit/libfb_mem_exploit/fb_mem.c	/^detect_kernel_phys_address_from_cpuinfo(void)$/;"	f	file:
+detect_kernel_phys_address_from_cpuinfo	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^detect_kernel_phys_address_from_cpuinfo(void)$/;"	f	file:
+detect_kernel_phys_parameters	libexploit/libfb_mem_exploit/fb_mem.c	/^detect_kernel_phys_parameters(void)$/;"	f	file:
+detect_kernel_phys_parameters	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^detect_kernel_phys_parameters(void)$/;"	f	file:
+detect_kernel_phys_parameters	mm.c	/^detect_kernel_phys_parameters(void)$/;"	f	file:
+device_database_file_paths	device_database/device_database.c	/^static const char *device_database_file_paths[] = {$/;"	v	file:
+device_detected	main.c	/^device_detected(void)$/;"	f
+device_get_symbol_address	device_database/device_database.c	/^device_get_symbol_address(device_symbol_t symbol)$/;"	f
+device_getprop	device_database/device_database.c	/^device_getprop(const char *name, char *value)$/;"	f
+device_id_t	device_database/device_database.h	/^} device_id_t;$/;"	t	typeref:enum:__anon2
+device_set_symbol_address	device_database/device_database.c	/^device_set_symbol_address(device_symbol_t symbol, unsigned long int address)$/;"	f
+device_symbol_t	device_database/device_database.h	/^typedef const char *device_symbol_t;$/;"	t
+diag_inject	libexploit/libdiagexploit/diag.c	/^diag_inject(struct diag_values *data, int data_length)$/;"	f
+diag_inject_with_fd	libexploit/libdiagexploit/diag.c	/^diag_inject_with_fd(struct diag_values *data, int data_length, int fd)$/;"	f
+diag_is_supported	libexploit/libdiagexploit/diag.c	/^diag_is_supported(void)$/;"	f
+diag_run_exploit	libexploit/libdiagexploit/diag.c	/^diag_run_exploit(struct diag_values *data, int data_length,$/;"	f
+diag_values	libexploit/libdiagexploit/diag.h	/^struct diag_values {$/;"	s
+diagpkt_delay_params	libexploit/libdiagexploit/diag.c	/^struct diagpkt_delay_params {$/;"	s	file:
+did_dm_tid_read	libexploit/libfutex_exploit/exploit.c	/^static volatile int did_dm_tid_read = 0;$/;"	v	file:
+did_hack_tid_read	libexploit/libfutex_exploit/exploit.c	/^static volatile int did_hack_tid_read = 0;$/;"	v	file:
+did_socket_tid_read	libexploit/libfutex_exploit/exploit.c	/^static volatile int did_socket_tid_read = 0;$/;"	v	file:
+do_child_task	libexploit/libpingpong_exploit/exploit.c	/^do_child_task(int pipe_write, int num_fds)$/;"	f	file:
+do_dm_tid_read	libexploit/libfutex_exploit/exploit.c	/^static volatile int do_dm_tid_read = 0;$/;"	v	file:
+do_exploit	libexploit/libfutex_exploit/exploit.c	/^do_exploit(void *waiter_plist)$/;"	f	file:
+do_futex_lock_pi_with_priority	libexploit/libfutex_exploit/exploit.c	/^do_futex_lock_pi_with_priority(int prio)$/;"	f	file:
+do_hack_tid_read	libexploit/libfutex_exploit/exploit.c	/^static volatile int do_hack_tid_read = 0;$/;"	v	file:
+do_kernel_task	libexploit/libpingpong_exploit/exploit.c	/^do_kernel_task(int *socks)$/;"	f	file:
+do_socket_tid_read	libexploit/libfutex_exploit/exploit.c	/^static volatile int do_socket_tid_read = 0;$/;"	v	file:
+do_write_to_kernel	libexploit/libfutex_exploit/futex.c	/^  bool do_write_to_kernel;$/;"	m	struct:kernel_memory_request_t	file:
+done	libexploit/libfutex_exploit/exploit.c	/^static pthread_cond_t done;$/;"	v	file:
+done_lock	libexploit/libfutex_exploit/exploit.c	/^static pthread_mutex_t done_lock;$/;"	v	file:
+egid	main.c	/^  gid_t egid;$/;"	m	struct:cred	file:
+euid	main.c	/^  uid_t euid;$/;"	m	struct:cred	file:
+exec_sid	main.c	/^  unsigned long exec_sid;$/;"	m	struct:task_security_struct	file:
+execute_sql	device_database/device_database.c	/^execute_sql(sqlite3_stmt *st)$/;"	f	file:
+exploit_callback_t	libexploit/exploit.h	/^typedef bool (*exploit_callback_t)(void *param);$/;"	t
+exploit_memory_callback_t	libexploit/exploit.h	/^typedef bool (*exploit_memory_callback_t)(void *mem, size_t length, void *param);$/;"	t
+fb_mem_convert_to_mmaped_address	libexploit/libfb_mem_exploit/fb_mem.c	/^fb_mem_convert_to_mmaped_address(void *address, void *mmap_base_address)$/;"	f
+fb_mem_exploit_enable	libexploit/exploit.c	/^static bool fb_mem_exploit_enable = true;$/;"	v	file:
+fb_mem_mmap	libexploit/libfb_mem_exploit/fb_mem.c	/^fb_mem_mmap(int *fd)$/;"	f
+fb_mem_munmap	libexploit/libfb_mem_exploit/fb_mem.c	/^fb_mem_munmap(void *address, int fd)$/;"	f
+fb_mem_run_exploit	libexploit/libfb_mem_exploit/fb_mem.c	/^fb_mem_run_exploit(bool(*exploit_callback)(void *mmap_base_address, void *user_data),$/;"	f
+fb_mem_set_kernel_phys_offset	libexploit/libfb_mem_exploit/fb_mem.c	/^fb_mem_set_kernel_phys_offset(int offset)$/;"	f
+fb_mem_write_value_at_address	libexploit/libfb_mem_exploit/fb_mem.c	/^fb_mem_write_value_at_address(unsigned long int address, int value)$/;"	f
+fd	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	int fd[2];$/;"	m	struct:pipe_pair_t	file:
+fill_with_payload	libexploit/libpingpong_exploit/exploit.c	/^fill_with_payload(void *address, size_t size)$/;"	f	file:
+find_commit_creds_address_in_memory	cred.c	/^find_commit_creds_address_in_memory(void *mem, size_t length)$/;"	f	file:
+find_kernel_text_from_iomem	libexploit/exploit.c	/^find_kernel_text_from_iomem(void)$/;"	f	file:
+find_prepare_kernel_cred_address_in_memory	cred.c	/^find_prepare_kernel_cred_address_in_memory(void *mem, size_t length)$/;"	f	file:
+find_ptmx_fops_address	main.c	/^find_ptmx_fops_address(kallsyms *info, void *mem, size_t length)$/;"	f	file:
+find_ptmx_fops_hint_t	ptmx.h	/^} find_ptmx_fops_hint_t;$/;"	t	typeref:struct:_find_ptmx_fops_hint_t
+find_variables_in_memory	main.c	/^bool find_variables_in_memory(void *mem, size_t length)$/;"	f
+fj_hdcp_run_exploit	libexploit/libfj_hdcp_exploit/fj_hdcp.c	/^fj_hdcp_run_exploit(unsigned long int address, int value,$/;"	f
+fj_hdcp_write_value_at_address	libexploit/libfj_hdcp_exploit/fj_hdcp.c	/^fj_hdcp_write_value_at_address(unsigned long address, int value)$/;"	f
+flags	libexploit/libexploit_utils/hack_addr_limit.c	/^  unsigned long flags;$/;"	m	struct:thread_info	file:
+flags	libexploit/libfutex_exploit/exploit.c	/^  unsigned long flags;$/;"	m	struct:thread_info	file:
+flags	main.c	/^  unsigned long flags;$/;"	m	struct:thread_info	file:
+free_address	libexploit/mmap.c	/^static void *free_address = (void *)0x10000000;$/;"	v	file:
+free_protect	libexploit/libpingpong_exploit/exploit.c	/^free_protect(void *protect)$/;"	f	file:
+fsgid	main.c	/^  gid_t fsgid;$/;"	m	struct:cred	file:
+fsuid	main.c	/^  uid_t fsuid;$/;"	m	struct:cred	file:
+func	libexploit/exploit.c	/^  exploit_callback_t func;$/;"	m	struct:_callback_info_t	file:
+func	mm.c	/^  memory_callback_t func;$/;"	m	struct:_callback_memory_exploit_info_t	file:
+futex_exploit_main	libexploit/libfutex_exploit/exploit.c	/^futex_exploit_main(void)$/;"	f
+futex_process_kernel_memory_requests	libexploit/libfutex_exploit/futex.c	/^futex_process_kernel_memory_requests(void)$/;"	f
+futex_read_value_at_address	libexploit/libfutex_exploit/futex.c	/^futex_read_value_at_address(unsigned long address, int *value)$/;"	f
+futex_read_values_at_address	libexploit/libfutex_exploit/futex.c	/^futex_read_values_at_address(unsigned long address, int *values, int count)$/;"	f
+futex_run_exploit	libexploit/libfutex_exploit/futex.c	/^futex_run_exploit(unsigned long int address, int value,$/;"	f
+futex_write_value_at_address	libexploit/libfutex_exploit/futex.c	/^futex_write_value_at_address(unsigned long address, int value)$/;"	f
+futex_write_values_at_address	libexploit/libfutex_exploit/futex.c	/^futex_write_values_at_address(unsigned long address, const int *values, int count)$/;"	f
+g_base	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^void* g_base = NULL;$/;"	v
+get_acdb_param	libexploit/libmsm_acdb_exploit/acdb.c	/^get_acdb_param(void)$/;"	f	file:
+get_cpu_implementer	libexploit/libfb_mem_exploit/fb_mem.c	/^get_cpu_implementer(void)$/;"	f	file:
+get_cpu_implementer	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^get_cpu_implementer(void)$/;"	f	file:
+get_current_delayed_rsp_id	libexploit/libdiagexploit/diag.c	/^get_current_delayed_rsp_id(int fd)$/;"	f	file:
+get_delayed_rsp_id_addresses	libexploit/libdiagexploit/diag.c	/^get_delayed_rsp_id_addresses(void)$/;"	f	file:
+get_device_id	device_database/device_database.c	/^get_device_id(bool do_regist)$/;"	f	file:
+get_kallsyms_in_memory_addresses	libkallsyms/kallsyms_in_memory.c	/^get_kallsyms_in_memory_addresses(kallsyms *info, unsigned long *mem, unsigned long length, unsigned long offset)$/;"	f	file:
+get_kernel_physical_offset	libexploit/exploit.c	/^get_kernel_physical_offset(void)$/;"	f	file:
+get_page_size	libexploit/libpingpong_exploit/exploit.c	/^get_page_size(void)$/;"	f	file:
+get_perf_swevent_enabled_address	libexploit/libperf_event_exploit/perf_event.c	/^get_perf_swevent_enabled_address(void)$/;"	f	file:
+get_sk_from_timestamp	libexploit/libpingpong_exploit/exploit.c	/^get_sk_from_timestamp(int sock, unsigned long *paddr)$/;"	f	file:
+get_system_ram_address_from_iomem	libexploit/libfb_mem_exploit/fb_mem.c	/^get_system_ram_address_from_iomem(void)$/;"	f	file:
+get_system_ram_address_from_iomem	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^get_system_ram_address_from_iomem(void)$/;"	f	file:
+get_user_read_value_at_address	libexploit/libget_user_exploit/get_user.c	/^get_user_read_value_at_address(unsigned long address, int *value)$/;"	f
+gid	main.c	/^  gid_t gid;$/;"	m	struct:cred	file:
+hack_addr_limit	libexploit/libexploit_utils/hack_addr_limit.c	/^hack_addr_limit(void)$/;"	f
+has_type_table	libkallsyms/kallsyms_in_memory.c	/^  int            has_type_table;$/;"	m	struct:_kallsyms	file:
+htole	libkallsyms/kallsyms_in_memory.c	20;"	d	file:
+htole	libkallsyms/kallsyms_in_memory.c	23;"	d	file:
+increment_address_value_in_child_process	libexploit/libperf_event_exploit/perf_event.c	/^increment_address_value_in_child_process(unsigned long int address, int count, int *child_fd)$/;"	f	file:
+increment_function	libexploit/libperf_event_exploit/perf_event.c	/^typedef pid_t (*increment_function) (unsigned long int address, int count, int *child_fd);$/;"	t	file:
+increment_value_at_offset_in_child_process	libexploit/libperf_event_exploit/perf_event.c	/^increment_value_at_offset_in_child_process(int offset, int count, int *child_fd)$/;"	f	file:
+infinite_loop	libexploit/libfutex_exploit/exploit.c	/^infinite_loop(void)$/;"	f	file:
+init_database	device_database/device_database.c	/^init_database(void)$/;"	f	file:
+init_futex_exploit	libexploit/libfutex_exploit/futex.c	/^init_futex_exploit(void)$/;"	f	file:
+init_mmap	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^static inline void init_mmap()$/;"	f	file:
+init_pingpong_exploit	libexploit/libpingpong_exploit/pingpong.c	/^init_pingpong_exploit(void)$/;"	f	file:
+init_pipes	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^static inline void init_pipes()$/;"	f	file:
+init_sock	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^static inline void init_sock()$/;"	f	file:
+inject_value	libexploit/libdiagexploit/diag.c	/^inject_value(struct diag_values *data,$/;"	f	file:
+int_sync_time_out	libexploit/libfutex_exploit/exploit.c	/^static volatile int_sync_time_out = 0;$/;"	v	file:
+ipsock_read_value_at_address	libexploit/libget_user_exploit/get_user.c	/^ipsock_read_value_at_address(unsigned long address, int *value)$/;"	f	file:
+is_address_in_kallsyms_table	libkallsyms/kallsyms_in_memory.c	/^is_address_in_kallsyms_table(kallsyms *info, void *mapped_address)$/;"	f
+is_cpu_timer_valid	main.c	/^is_cpu_timer_valid(struct list_head *cpu_timer)$/;"	f	file:
+is_kernel_task_executed	libexploit/libpingpong_exploit/exploit.c	/^static int is_kernel_task_executed = 0;$/;"	v	file:
+is_kernel_writing_lock	libexploit/libfutex_exploit/exploit.c	/^static pthread_mutex_t is_kernel_writing_lock;$/;"	v	file:
+is_selinux_enforcing	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^static inline int is_selinux_enforcing()$/;"	f	file:
+is_thread_awake	libexploit/libfutex_exploit/exploit.c	/^static pthread_cond_t is_thread_awake;$/;"	v	file:
+is_thread_awake_lock	libexploit/libfutex_exploit/exploit.c	/^static pthread_mutex_t is_thread_awake_lock;$/;"	v	file:
+is_thread_desched	libexploit/libfutex_exploit/exploit.c	/^static pthread_cond_t is_thread_desched;$/;"	v	file:
+is_thread_desched_lock	libexploit/libfutex_exploit/exploit.c	/^static pthread_mutex_t is_thread_desched_lock;$/;"	v	file:
+is_type_table	libkallsyms/kallsyms_in_memory.c	/^is_type_table(const unsigned int *mem, unsigned long length)$/;"	f	file:
+jit_keyring	main.c	/^  unsigned char jit_keyring;$/;"	m	struct:cred	file:
+kallsyms	libkallsyms/kallsyms_in_memory.h	/^typedef struct _kallsyms kallsyms;$/;"	t	typeref:struct:_kallsyms
+kallsyms_exist	kallsyms.c	/^kallsyms_exist(void)$/;"	f
+kallsyms_get_symbol_address	kallsyms.c	/^kallsyms_get_symbol_address(const char *symbol_name)$/;"	f
+kallsyms_in_memory_expand_symbol	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_expand_symbol(kallsyms *info, unsigned int off, char *result)$/;"	f	file:
+kallsyms_in_memory_free	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_free(kallsyms *info)$/;"	f
+kallsyms_in_memory_init	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_init(unsigned long *mem, size_t len)$/;"	f
+kallsyms_in_memory_lookup_address	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_lookup_address(kallsyms *info, unsigned long address)$/;"	f
+kallsyms_in_memory_lookup_name	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_lookup_name(kallsyms *info, const char *name)$/;"	f
+kallsyms_in_memory_lookup_names	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_lookup_names(kallsyms *info, const char *name,$/;"	f
+kallsyms_in_memory_print_all	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_print_all(kallsyms *info)$/;"	f
+kallsyms_in_memory_print_all_to_file	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_print_all_to_file(kallsyms *info, FILE *fp)$/;"	f
+kallsyms_in_memory_set_verbose	libkallsyms/kallsyms_in_memory.c	/^kallsyms_in_memory_set_verbose(bool verbose)$/;"	f
+keep_invalid_sk	libexploit/libpingpong_exploit/exploit.c	/^keep_invalid_sk(int *socks)$/;"	f	file:
+kernel_cap_struct	main.c	/^struct kernel_cap_struct {$/;"	s	file:
+kernel_hack_task	libexploit/libfutex_exploit/exploit.c	/^kernel_hack_task(int signum)$/;"	f	file:
+kernel_memory_request_t	libexploit/libfutex_exploit/futex.c	/^struct kernel_memory_request_t {$/;"	s	file:
+kernel_phys_address	libexploit/libfb_mem_exploit/fb_mem.c	/^static unsigned long kernel_phys_address = 0;$/;"	v	file:
+kernel_phys_offset	libexploit/libfb_mem_exploit/fb_mem.c	/^static int kernel_phys_offset = 0;$/;"	v	file:
+kernel_phys_offset	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^static unsigned long kernel_phys_offset = 0;$/;"	v	file:
+kernel_phys_offset	mm.c	/^static unsigned long int kernel_phys_offset;$/;"	v	file:
+kernel_phys_offset_initialized	libexploit/libfb_mem_exploit/fb_mem.c	/^static bool kernel_phys_offset_initialized = false;$/;"	v	file:
+kernel_phys_offset_initialized	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^static bool kernel_phys_offset_initialized = false;$/;"	v	file:
+kernel_task	libexploit/libpingpong_exploit/exploit.c	/^kernel_task(void)$/;"	f	file:
+keycreate_sid	main.c	/^  unsigned long keycreate_sid;$/;"	m	struct:task_security_struct	file:
+kill_switch	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^unsigned long kill_switch = 0;$/;"	v
+last_tid	libexploit/libfutex_exploit/exploit.c	/^static pid_t last_tid = 0;$/;"	v	file:
+le16toh	libkallsyms/kallsyms_in_memory.c	15;"	d	file:
+le32toh	libkallsyms/kallsyms_in_memory.c	11;"	d	file:
+len	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	size_t len;$/;"	m	struct:mmap_info_t	file:
+len	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^	int len;$/;"	m	struct:payload	file:
+length	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^    uint32_t length;$/;"	m	struct:msm_mem_map_info	file:
+letoh	libkallsyms/kallsyms_in_memory.c	19;"	d	file:
+letoh	libkallsyms/kallsyms_in_memory.c	22;"	d	file:
+list_entry	libexploit/libfutex_exploit/exploit.c	/^  struct plist_node       list_entry;$/;"	m	struct:rt_mutex_waiter	typeref:struct:rt_mutex_waiter::plist_node	file:
+list_head	libexploit/libfutex_exploit/exploit.c	/^struct list_head {$/;"	s	file:
+list_head	main.c	/^struct list_head {$/;"	s	file:
+lock	libexploit/libfutex_exploit/exploit.c	/^  struct rt_mutex         *lock;$/;"	m	struct:rt_mutex_waiter	typeref:struct:rt_mutex_waiter::rt_mutex	file:
+lock_page_in_memory	libexploit/libpingpong_exploit/exploit.c	/^lock_page_in_memory(void *address, size_t size)$/;"	f	file:
+magic	libexploit/libfutex_exploit/futex.c	/^  int magic;$/;"	m	struct:kernel_memory_request_t	file:
+main	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^int main(int argc, char **argv)$/;"	f
+main	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^int main(int argc,char* argv[])$/;"	f
+main	main.c	/^main(int argc, char **argv)$/;"	f
+markers	libkallsyms/kallsyms_in_memory.c	/^  unsigned long *markers;$/;"	m	struct:_kallsyms	file:
+maximize_fd_limit	libexploit/libpingpong_exploit/exploit.c	/^maximize_fd_limit(void)$/;"	f	file:
+mem_type	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^    uint32_t mem_type;$/;"	m	struct:msm_mem_map_info	file:
+memory_callback_t	mm.h	/^typedef bool (*memory_callback_t)(void *mem, size_t length);$/;"	t
+mmap	libexploit/mmap.c	/^void* mmap(void *addr, size_t size, int prot, int flags, int fd, long offset)$/;"	f
+mmap_info	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^struct mmap_info_t mmap_info[NR_MMAPS];$/;"	v	typeref:struct:mmap_info_t
+mmap_info_t	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^struct mmap_info_t {$/;"	s	file:
+mmap_iov	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^static struct iovec mmap_iov[NR_MMAPS];$/;"	v	typeref:struct:iovec	file:
+mmap_status_t	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^enum mmap_status_t {$/;"	g	file:
+mmap_thread	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^pthread_t mmap_thread;$/;"	v
+mmap_thread_func	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^void *mmap_thread_func(void *p)$/;"	f
+mmsghdr	libexploit/libfutex_exploit/exploit.c	/^struct mmsghdr {$/;"	s	file:
+msg_hdr	libexploit/libfutex_exploit/exploit.c	/^  struct msghdr msg_hdr;$/;"	m	struct:mmsghdr	typeref:struct:mmsghdr::msghdr	file:
+msg_iovecs	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^struct iovec msg_iovecs[NR_MMAPS];$/;"	v	typeref:struct:iovec
+msg_len	libexploit/libfutex_exploit/exploit.c	/^  unsigned int  msg_len;$/;"	m	struct:mmsghdr	file:
+msm_cameraconfig_convert_to_mmaped_address	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^msm_cameraconfig_convert_to_mmaped_address(void *address, void *mmap_base_address)$/;"	f
+msm_cameraconfig_mmap	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^msm_cameraconfig_mmap(int *fd_video, int *fd_config)$/;"	f
+msm_cameraconfig_munmap	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^msm_cameraconfig_munmap(void *address, int fd_video, int fd_config)$/;"	f
+msm_cameraconfig_run_exploit	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^msm_cameraconfig_run_exploit(bool(*exploit_callback)(void *mmap_base_address, void *user_data),$/;"	f
+msm_cameraconfig_set_kernel_phys_offset	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^msm_cameraconfig_set_kernel_phys_offset(int offset)$/;"	f
+msm_cameraconfig_write_value_at_address	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^msm_cameraconfig_write_value_at_address(unsigned long int address, int value)$/;"	f
+msm_mem_map_info	libexploit/libmsm_cameraconfig_exploit/msm_cameraconfig.c	/^struct msm_mem_map_info {$/;"	s	file:
+names	libkallsyms/kallsyms_in_memory.c	/^  uint8_t       *names;$/;"	m	struct:_kallsyms	file:
+next	libexploit/libfutex_exploit/exploit.c	/^  struct list_head *next;$/;"	m	struct:list_head	typeref:struct:list_head::list_head	file:
+next	main.c	/^  struct list_head *next;$/;"	m	struct:list_head	typeref:struct:list_head::list_head	file:
+node_list	libexploit/libfutex_exploit/exploit.c	/^  struct list_head        node_list;$/;"	m	struct:plist_node	typeref:struct:plist_node::list_head	file:
+num_bytes_ptr	libexploit/libdiagexploit/diag.c	/^  int *num_bytes_ptr;$/;"	m	struct:diagpkt_delay_params	file:
+num_sockets	libexploit/libpingpong_exploit/exploit.c	/^  int num_sockets;$/;"	m	struct:child_status_t	file:
+num_syms	libkallsyms/kallsyms_in_memory.c	/^  unsigned long  num_syms;$/;"	m	struct:_kallsyms	file:
+obtain_root_privilege	main.c	/^obtain_root_privilege(void)$/;"	f
+obtain_root_privilege_by_commit_creds	main.c	/^obtain_root_privilege_by_commit_creds(void)$/;"	f	file:
+obtain_root_privilege_by_modify_task_cred	main.c	/^obtain_root_privilege_by_modify_task_cred(void)$/;"	f	file:
+obtain_root_privilege_func	main.c	/^static void (*obtain_root_privilege_func)(void);$/;"	v	file:
+old_mmap_handler	mm.c	/^static void *old_mmap_handler;$/;"	v	file:
+original_value	libexploit/libdiagexploit/diag.h	/^  unsigned short original_value;$/;"	m	struct:diag_values
+osid	main.c	/^  unsigned long osid;$/;"	m	struct:task_security_struct	file:
+param	libexploit/exploit.c	/^  void *param;$/;"	m	struct:_callback_info_t	file:
+param_pair	libexploit/libmsm_acdb_exploit/acdb.c	/^} param_pair;$/;"	t	typeref:struct:_param_pair	file:
+pattern_kallsyms_addresses	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const * const pattern_kallsyms_addresses[] = {$/;"	v	file:
+pattern_kallsyms_addresses_1	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const pattern_kallsyms_addresses_1[PATTERN_MAX] = {$/;"	v	file:
+pattern_kallsyms_addresses_2	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const pattern_kallsyms_addresses_2[PATTERN_MAX] = {$/;"	v	file:
+pattern_kallsyms_addresses_3	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const pattern_kallsyms_addresses_3[PATTERN_MAX] = {$/;"	v	file:
+pattern_kallsyms_addresses_4	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const pattern_kallsyms_addresses_4[PATTERN_MAX] = {$/;"	v	file:
+pattern_kallsyms_addresses_5	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const pattern_kallsyms_addresses_5[PATTERN_MAX] = {$/;"	v	file:
+pattern_kallsyms_addresses_6	libkallsyms/kallsyms_in_memory.c	/^static const unsigned long const pattern_kallsyms_addresses_6[PATTERN_MAX] = {$/;"	v	file:
+payload	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^struct payload$/;"	s	file:
+pc1	libexploit/libmsm_acdb_exploit/acdb.c	/^  param_pair pc1;$/;"	m	struct:_acdb_param	file:
+pc2	libexploit/libmsm_acdb_exploit/acdb.c	/^  param_pair pc2;$/;"	m	struct:_acdb_param	file:
+perf_event_reap_child_process	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_reap_child_process(int number)$/;"	f
+perf_event_run_exploit	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_run_exploit(unsigned long int address, int value,$/;"	f
+perf_event_run_exploit_with	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_run_exploit_with(unsigned long int address, int value,$/;"	f	file:
+perf_event_run_exploit_with_offset	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_run_exploit_with_offset(int offset, int value,$/;"	f
+perf_event_write_value_at	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_write_value_at(unsigned long int address, int value,$/;"	f	file:
+perf_event_write_value_at_address	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_write_value_at_address(unsigned long int address, int value)$/;"	f
+perf_event_write_value_at_offset	libexploit/libperf_event_exploit/perf_event.c	/^perf_event_write_value_at_offset(int offset, int value)$/;"	f
+perf_swevent_reap_child_process	libexploit/libperf_event_exploit/perf_swevent.c	/^perf_swevent_reap_child_process(int number)$/;"	f
+perf_swevent_run_exploit	libexploit/libperf_event_exploit/perf_swevent.c	/^perf_swevent_run_exploit(unsigned long int address, int value,$/;"	f
+perf_swevent_write_value_at_address	libexploit/libperf_event_exploit/perf_swevent.c	/^perf_swevent_write_value_at_address(unsigned long int address, int value)$/;"	f
+pgprot	mm.h	/^  unsigned long pgprot;$/;"	m	struct:__anon1
+pgprot_t	mm.h	/^} pgprot_t;$/;"	t	typeref:struct:__anon1
+pi_list_entry	libexploit/libfutex_exploit/exploit.c	/^  struct plist_node       pi_list_entry;$/;"	m	struct:rt_mutex_waiter	typeref:struct:rt_mutex_waiter::plist_node	file:
+pingpong_exploit_main	libexploit/libpingpong_exploit/exploit.c	/^pingpong_exploit_main(void)$/;"	f
+pingpong_read_value_at_address	libexploit/libpingpong_exploit/pingpong.c	/^pingpong_read_value_at_address(unsigned long address, int *value)$/;"	f
+pingpong_read_values_at_address	libexploit/libpingpong_exploit/pingpong.c	/^pingpong_read_values_at_address(unsigned long address, int *values, int count)$/;"	f
+pingpong_run_exploit	libexploit/libpingpong_exploit/pingpong.c	/^pingpong_run_exploit(unsigned long int address, int value,$/;"	f
+pingpong_write_value_at_address	libexploit/libpingpong_exploit/pingpong.c	/^pingpong_write_value_at_address(unsigned long address, int value)$/;"	f
+pingpong_write_values_at_address	libexploit/libpingpong_exploit/pingpong.c	/^pingpong_write_values_at_address(unsigned long address, const int *values, int count)$/;"	f
+pipe_buf	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^static const unsigned long pipe_buf[16] = {$/;"	v	file:
+pipe_fd	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^int pipe_fd[2];$/;"	v
+pipe_pair_t	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^struct pipe_pair_t {$/;"	s	file:
+pipe_read_func	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^void *pipe_read_func(void *arg)$/;"	f
+pipe_read_threads	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^pthread_t pipe_read_threads[NR_PIPES];$/;"	v
+pipe_write_func	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^void *pipe_write_func(void *arg)$/;"	f
+pipe_write_threads	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^pthread_t pipe_write_threads[NR_PIPES];$/;"	v
+pipe_write_value_at_address	libexploit/libput_user_exploit/put_user.c	/^pipe_write_value_at_address(unsigned long address, int value)$/;"	f	file:
+pipes	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^struct pipe_pair_t pipes[NR_PIPES];$/;"	v	typeref:struct:pipe_pair_t
+plist_node	libexploit/libfutex_exploit/exploit.c	/^struct plist_node {$/;"	s	file:
+plist_set_next	libexploit/libfutex_exploit/exploit.c	/^plist_set_next(struct list_head *node, struct list_head *head)$/;"	f	file:
+populate_pagetable_for_address	libexploit/libpingpong_exploit/exploit.c	/^populate_pagetable_for_address(void *address)$/;"	f	file:
+pos	libexploit/libmsm_acdb_exploit/acdb.c	/^  int pos;$/;"	m	struct:_param_pair	file:
+preempt_count	libexploit/libexploit_utils/hack_addr_limit.c	/^  int preempt_count;$/;"	m	struct:thread_info	file:
+preempt_count	libexploit/libfutex_exploit/exploit.c	/^  int preempt_count;$/;"	m	struct:thread_info	file:
+preempt_count	main.c	/^  int preempt_count;$/;"	m	struct:thread_info	file:
+prepare_kernel_cred	cred.c	/^prepare_kernel_cred_t prepare_kernel_cred;$/;"	v
+prepare_kernel_cred_asm	cred.c	/^static uint32_t prepare_kernel_cred_asm[] = { 0xe59f30bc, 0xe3a010d0, 0xe92d4070, 0xe1a04000 };$/;"	v	file:
+prepare_kernel_cred_asm_length	cred.c	/^static size_t prepare_kernel_cred_asm_length = sizeof(prepare_kernel_cred_asm);$/;"	v	file:
+prepare_kernel_cred_t	cred.h	/^typedef struct cred *(*prepare_kernel_cred_t)(struct task_struct *);$/;"	t	typeref:struct:prepare_kernel_cred_t
+prepare_pipes	libexploit/libperf_event_exploit/perf_event.c	/^prepare_pipes(int *read_fd)$/;"	f	file:
+prev	libexploit/libfutex_exploit/exploit.c	/^  struct list_head *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head	file:
+prev	main.c	/^  struct list_head *prev;$/;"	m	struct:list_head	typeref:struct:list_head::list_head	file:
+print_reason_device_not_supported	device_database/device_database.c	/^print_reason_device_not_supported(void)$/;"	f
+prio	libexploit/libfutex_exploit/exploit.c	/^  int                     prio;$/;"	m	struct:plist_node	file:
+prio_list	libexploit/libfutex_exploit/exploit.c	/^  struct list_head        prio_list;$/;"	m	struct:plist_node	typeref:struct:plist_node::list_head	file:
+process_kernel_memory_request	libexploit/libfutex_exploit/futex.c	/^process_kernel_memory_request(int req_fd)$/;"	f	file:
+protect_crash_when_double_free	libexploit/libpingpong_exploit/exploit.c	/^protect_crash_when_double_free(void)$/;"	f	file:
+protect_from_oom_killer	libexploit/libexploit_utils/protect_from_oom_killer.c	/^protect_from_oom_killer(void)$/;"	f
+ptmx_fops	ptmx.c	/^void *ptmx_fops;$/;"	v
+ptmx_fops_fsync_address	ptmx.c	/^unsigned long int ptmx_fops_fsync_address;$/;"	v
+ptmx_fops_mmap_address	ptmx.c	/^unsigned long int ptmx_fops_mmap_address;$/;"	v
+ptmx_mmap	mm.c	/^ptmx_mmap(struct file *filep, struct vm_area_struct *vma)$/;"	f
+ptmx_open_address	ptmx.h	/^  unsigned long int ptmx_open_address;$/;"	m	struct:_find_ptmx_fops_hint_t
+put_user_run_exploit	libexploit/libput_user_exploit/put_user.c	/^put_user_run_exploit(unsigned long int address, int value,$/;"	f
+put_user_write_value_at_address	libexploit/libput_user_exploit/put_user.c	/^put_user_write_value_at_address(unsigned long address, int value)$/;"	f
+read_kernel_memory_by_pipe	libexploit/libexploit_utils/kernel_memory_by_pipe.c	/^read_kernel_memory_by_pipe(unsigned long int address, void *values, size_t length)$/;"	f
+read_voluntary_ctxt_switches	libexploit/libfutex_exploit/exploit.c	/^read_voluntary_ctxt_switches(pid_t pid)$/;"	f	file:
+real_cred	main.c	/^  struct cred *real_cred;$/;"	m	struct:task_struct_partial	typeref:struct:task_struct_partial::cred	file:
+register_device_id	device_database/device_database.c	/^register_device_id(const char *property_name)$/;"	f	file:
+remap_pfn_range	mm.c	/^int (*remap_pfn_range)(struct vm_area_struct *, unsigned long addr,$/;"	v
+replacement_session_keyring	main.c	/^  struct cred *replacement_session_keyring;$/;"	m	struct:task_struct_partial	typeref:struct:task_struct_partial::cred	file:
+request_key_auth	main.c	/^  void *request_key_auth;$/;"	m	struct:cred	file:
+reset_delayed_rsp_id	libexploit/libdiagexploit/diag.c	/^reset_delayed_rsp_id(int fd, void *delayed_rsp_id_address)$/;"	f	file:
+restore_values	libexploit/libdiagexploit/diag.c	/^restore_values(struct diag_values *data, int data_length, int fd)$/;"	f	file:
+result	libexploit/exploit.c	/^  bool result;$/;"	m	struct:_callback_info_t	file:
+result	libexploit/libpingpong_exploit/exploit.c	/^  int result;$/;"	m	struct:child_status_t	file:
+result	mm.c	/^  bool result;$/;"	m	struct:_callback_memory_exploit_info_t	file:
+rsp_ptr	libexploit/libdiagexploit/diag.c	/^  void *rsp_ptr;$/;"	m	struct:diagpkt_delay_params	file:
+rt_mutex_waiter	libexploit/libfutex_exploit/exploit.c	/^struct rt_mutex_waiter {$/;"	s	file:
+rt_mutex_waiter_first	libexploit/libfutex_exploit/exploit.c	/^rt_mutex_waiter_first(void *mem)$/;"	f	file:
+run_callback	libexploit/exploit.c	/^run_callback(void *param)$/;"	f	file:
+run_callback_memory_exploit	mm.c	/^run_callback_memory_exploit(void *address, size_t length, void *param)$/;"	f	file:
+run_callback_with_fsync_and_mmap	mm.c	/^run_callback_with_fsync_and_mmap(void *user_data)$/;"	f	file:
+run_exploit	main.c	/^run_exploit(void)$/;"	f	file:
+run_exploit_memcpy	mm.c	/^run_exploit_memcpy(memory_callback_t callback, bool *result)$/;"	f	file:
+run_exploit_mmap	mm.c	/^run_exploit_mmap(memory_callback_t callback, bool *result)$/;"	f	file:
+run_obtain_root_privilege	main.c	/^run_obtain_root_privilege(void *user_data)$/;"	f	file:
+run_with_memcpy	mm.c	/^run_with_memcpy(memory_callback_t callback)$/;"	f
+run_with_mmap	mm.c	/^run_with_mmap(memory_callback_t callback)$/;"	f
+search_pattern	libkallsyms/kallsyms_in_memory.c	/^search_pattern(unsigned long *base, unsigned long count, const unsigned long *const pattern)$/;"	f	file:
+securebits	main.c	/^  unsigned long securebits;$/;"	m	struct:cred	file:
+security	main.c	/^  struct task_security_struct *security;$/;"	m	struct:cred	typeref:struct:cred::task_security_struct	file:
+send_delay_params	libexploit/libdiagexploit/diag.c	/^send_delay_params(int fd, void *target_address, void *stored_for_written_bytes)$/;"	f	file:
+send_kernel_memory_request	libexploit/libfutex_exploit/futex.c	/^static bool send_kernel_memory_request(struct kernel_memory_request_t *req, int *values)$/;"	f	file:
+send_status_to_parent	libexploit/libpingpong_exploit/exploit.c	/^send_status_to_parent(int pipe_write, int num_sockets, int result)$/;"	f	file:
+sendmsg_thread_func	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^void *sendmsg_thread_func(void *p)$/;"	f
+sendmsg_threads	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^pthread_t sendmsg_threads[NR_SOCKS];$/;"	v
+server_for_setup_rt_waiter	libexploit/libfutex_exploit/exploit.c	/^server_for_setup_rt_waiter(void)$/;"	f	file:
+server_socket	libexploit/libfutex_exploit/futex.c	/^static int server_socket = -1;$/;"	v	file:
+server_sockfd	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^int server_sockfd;$/;"	v
+set_default_kernel_physical_offset	libexploit/exploit.c	/^void set_default_kernel_physical_offset(unsigned long int offset)$/;"	f
+set_fb_mem_exploit_enable	libexploit/exploit.c	/^set_fb_mem_exploit_enable(bool enable)$/;"	f
+set_kernel_phys_offset	mm.c	/^set_kernel_phys_offset(unsigned long int offset)$/;"	f
+setup_commit_creds_address	cred.c	/^setup_commit_creds_address(void)$/;"	f
+setup_commit_creds_address_in_memory	cred.c	/^setup_commit_creds_address_in_memory(void *mem, size_t length)$/;"	f
+setup_kernel_task	libexploit/libpingpong_exploit/exploit.c	/^setup_kernel_task(void *sk)$/;"	f	file:
+setup_mmap_by_fsync	mm.c	/^setup_mmap_by_fsync(void)$/;"	f	file:
+setup_prepare_kernel_cred_address	cred.c	/^setup_prepare_kernel_cred_address(void)$/;"	f
+setup_prepare_kernel_cred_address_in_memory	cred.c	/^setup_prepare_kernel_cred_address_in_memory(void *mem, size_t length)$/;"	f
+setup_ptmx_fops_address	ptmx.c	/^setup_ptmx_fops_address(void)$/;"	f
+setup_ptmx_fops_address_in_memory	ptmx.c	/^setup_ptmx_fops_address_in_memory(void *mem, size_t length, find_ptmx_fops_hint_t  *hint)$/;"	f
+setup_ptmx_fops_fsync_address	ptmx.c	/^setup_ptmx_fops_fsync_address(void)$/;"	f
+setup_ptmx_fops_mmap_address	ptmx.c	/^setup_ptmx_fops_mmap_address(void)$/;"	f
+setup_remap_pfn_range_address	mm.c	/^setup_remap_pfn_range_address(void)$/;"	f
+setup_variables	main.c	/^setup_variables(void)$/;"	f
+setup_vul_socket	libexploit/libpingpong_exploit/exploit.c	/^setup_vul_socket(int sock)$/;"	f	file:
+setup_waiter_params	libexploit/libfutex_exploit/exploit.c	/^setup_waiter_params(struct rt_mutex_waiter *rt_waiters)$/;"	f	file:
+sgid	main.c	/^  gid_t sgid;$/;"	m	struct:cred	file:
+sid	main.c	/^  unsigned long sid;$/;"	m	struct:task_security_struct	file:
+size	libexploit/libdiagexploit/diag.c	/^  int size;$/;"	m	struct:diagpkt_delay_params	file:
+size	libexploit/libmsm_acdb_exploit/acdb.c	/^    unsigned int size;$/;"	m	struct:acdb_ioctl	file:
+sk_client	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^struct sockaddr_in sk_client;$/;"	v	typeref:struct:sockaddr_in
+sockcreate_sid	main.c	/^  unsigned long sockcreate_sid;$/;"	m	struct:task_security_struct	file:
+status	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	enum mmap_status_t status;$/;"	m	struct:mmap_info_t	typeref:enum:mmap_info_t::mmap_status_t	file:
+suid	main.c	/^  uid_t suid;$/;"	m	struct:cred	file:
+swag	libexploit/libfutex_exploit/exploit.c	/^static int swag = 0;$/;"	v	file:
+swag2	libexploit/libfutex_exploit/exploit.c	/^static int swag2 = 0;$/;"	v	file:
+sync_timeout_task	libexploit/libfutex_exploit/exploit.c	/^sync_timeout_task(int sig)$/;"	f	file:
+sync_with_child	libexploit/libfutex_exploit/exploit.c	/^sync_with_child(pid_t pid, int volatile *do_request, int volatile *did_request)$/;"	f	file:
+sync_with_parent	libexploit/libfutex_exploit/exploit.c	/^sync_with_parent(int volatile *do_request, int volatile *did_request)$/;"	f	file:
+syscall_perf_event_open	libexploit/libperf_event_exploit/perf_event.c	/^syscall_perf_event_open(uint32_t offset)$/;"	f	file:
+target_addr	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^size_t target_addr = 0xffffffc001e3c0c4UL;$/;"	v
+task	libexploit/libfutex_exploit/exploit.c	/^  struct task_struct      *task;$/;"	m	struct:rt_mutex_waiter	typeref:struct:rt_mutex_waiter::task_struct	file:
+task	libexploit/libfutex_exploit/exploit.c	/^  struct task_struct *task;$/;"	m	struct:thread_info	typeref:struct:thread_info::task_struct	file:
+task	main.c	/^  struct task_struct *task;$/;"	m	struct:thread_info	typeref:struct:thread_info::task_struct	file:
+task_security_struct	main.c	/^struct task_security_struct {$/;"	s	file:
+task_struct_partial	main.c	/^struct task_struct_partial {$/;"	s	file:
+tgcred	main.c	/^  void *tgcred;$/;"	m	struct:cred	file:
+thread_func1	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^void* thread_func1(const char* s)$/;"	f
+thread_func2	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^void* thread_func2(const char* s)$/;"	f
+thread_info	libexploit/libexploit_utils/hack_addr_limit.c	/^struct thread_info {$/;"	s	file:
+thread_info	libexploit/libfutex_exploit/exploit.c	/^struct thread_info {$/;"	s	file:
+thread_info	main.c	/^struct thread_info {$/;"	s	file:
+thread_keyring	main.c	/^  void *thread_keyring;$/;"	m	struct:cred	file:
+token_index	libkallsyms/kallsyms_in_memory.c	/^  uint16_t      *token_index;$/;"	m	struct:_kallsyms	file:
+token_table	libkallsyms/kallsyms_in_memory.c	/^  uint8_t       *token_table;$/;"	m	struct:_kallsyms	file:
+total_len	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^	int total_len;$/;"	m	struct:payload	file:
+trigger	libexploit/CVE-2015-1805/CVE-2015-18052.c	/^int trigger()$/;"	f
+try_control_sk	libexploit/libpingpong_exploit/exploit.c	/^try_control_sk(int *socks)$/;"	f	file:
+tty_fasync_address	ptmx.h	/^  unsigned long int tty_fasync_address;$/;"	m	struct:_find_ptmx_fops_hint_t
+tty_release_address	ptmx.h	/^  unsigned long int tty_release_address;$/;"	m	struct:_find_ptmx_fops_hint_t
+uid	main.c	/^  uid_t uid;$/;"	m	struct:cred	file:
+usage	main.c	/^  unsigned long usage;$/;"	m	struct:cred	file:
+vaddr	libexploit/CVE-2015-1805/CVE-2015-1805.c	/^	void *                  vaddr;$/;"	m	struct:mmap_info_t	file:
+value	libexploit/libdiagexploit/diag.h	/^  unsigned short value;$/;"	m	struct:diag_values
+value	libexploit/libmsm_acdb_exploit/acdb.c	/^  unsigned long int value;$/;"	m	struct:_param_pair	file:
+value_pos	libexploit/libmsm_acdb_exploit/acdb.c	/^  int value_pos;$/;"	m	struct:_acdb_param	file:
+verbose_output	libkallsyms/kallsyms_in_memory.c	/^static bool verbose_output;$/;"	v	file:
+vm_area_struct	mm.h	/^struct vm_area_struct {$/;"	s
+vm_end	mm.h	/^  unsigned long vm_start, vm_end;$/;"	m	struct:vm_area_struct
+vm_mm	mm.h	/^  void *vm_mm;$/;"	m	struct:vm_area_struct
+vm_next	mm.h	/^  void *vm_next, *vm_prev;$/;"	m	struct:vm_area_struct
+vm_page_prot	mm.h	/^  pgprot_t vm_page_prot;$/;"	m	struct:vm_area_struct
+vm_prev	mm.h	/^  void *vm_next, *vm_prev;$/;"	m	struct:vm_area_struct
+vm_start	mm.h	/^  unsigned long vm_start, vm_end;$/;"	m	struct:vm_area_struct
+wait_for_sockets_created	libexploit/libpingpong_exploit/exploit.c	/^wait_for_sockets_created(int pipe_read, int *num_socks_created)$/;"	f	file:
+wait_to_close	libexploit/libpingpong_exploit/exploit.c	/^wait_to_close(int pipe_write)$/;"	f	file:
+waiter_thread_tid	libexploit/libfutex_exploit/exploit.c	/^static pid_t waiter_thread_tid;$/;"	v	file:
+write_kernel_memory_by_pipe	libexploit/libexploit_utils/kernel_memory_by_pipe.c	/^write_kernel_memory_by_pipe(unsigned long int address, const void *values, size_t length)$/;"	f
+write_value	libexploit/libmsm_acdb_exploit/acdb.c	/^write_value(const acdb_param *param, unsigned long address, unsigned long value)$/;"	f	file:
