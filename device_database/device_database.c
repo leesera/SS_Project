@@ -8,6 +8,7 @@
 #include "device_database.h"
 
 #define ARRAY_SIZE(n)	(sizeof (n) / sizeof (*(n)))
+#define VERSION_MAX_VALUE 200
 
 #define DEVICE_DATABASE_FILE            "device.db"
 
@@ -438,6 +439,7 @@ device_set_symbol_address(device_symbol_t symbol, unsigned long int address)
   return true;
 }
 
+
 void
 print_reason_device_not_supported(void)
 {
@@ -454,6 +456,7 @@ print_reason_device_not_supported(void)
 
   __system_property_get("ro.product.model", device);
   __system_property_get("ro.build.display.id", build_id);
+
 
   check_name = NULL;
 
