@@ -5,7 +5,7 @@ CREATE TABLE supported_devices(device_id INTEGER PRIMARY KEY ASC, device TEXT NO
 
 CREATE TABLE device_address(device_id INTEGER NOT NULL, name TEXT NOT NULL, value INTEGER NOT NULL, PRIMARY KEY(device_id, name));
 
-/*
+
 INSERT INTO supported_devices(device_id, device, build_id, check_property_name, check_property_value) VALUES(1, 'C1505', '11.3.A.0.47', NULL, NULL);
   INSERT INTO device_address(device_id, name, value) VALUES(1, 'prepare_kernel_cred', '0xc00adb98');
   INSERT INTO device_address(device_id, name, value) VALUES(1, 'commit_creds', '0xc00ad80c');
@@ -1493,6 +1493,21 @@ INSERT INTO supported_devices(device_id, device, build_id, check_property_name, 
   INSERT INTO device_address(device_id, name, value) VALUES(202, 'commit_creds', '0xc0090734');
   INSERT INTO device_address(device_id, name, value) VALUES(202, 'remap_pfn_range', '0xc00e2064');
 
+INSERT INTO supported_devices(device_id, device, build_id, check_property_name, check_property_value) VALUES(203, 'ZTE Blade G', 'ZTE Blade G V10.0', NULL, NULL);
+  INSERT INTO device_address(device_id, name, value) VALUES(203, 'ptmx_fops', '0xc0a0fb60');
+  INSERT INTO device_address(device_id, name, value) VALUES(203, 'prepare_kernel_cred', '0xc00b2330');
+  INSERT INTO device_address(device_id, name, value) VALUES(203, 'commit_creds', '0xc00b1fa4');
+  INSERT INTO device_address(device_id, name, value) VALUES(203, 'remap_pfn_range', '0xc0122d0c');
 
-COMMIT;
-*/
+INSERT INTO supported_devices(device_id, device, build_id, check_property_name, check_property_value) VALUES(204, 'W200', 'ThL.156C.W200.140227.JBV2.HD.EN.COM.8P64_MT6589T', NULL, NULL);
+  INSERT INTO device_address(device_id, name, value) VALUES(204, 'ptmx_fops', '0xc0908498');
+  INSERT INTO device_address(device_id, name, value) VALUES(204, 'prepare_kernel_cred', '0xc0078a2c');
+  INSERT INTO device_address(device_id, name, value) VALUES(204, 'commit_creds', '0xc007868c');
+  INSERT INTO device_address(device_id, name, value) VALUES(204, 'remap_pfn_range', '0xc00e9f14');
+
+INSERT INTO supported_devices(device_id, device, build_id, check_property_name, check_property_value) VALUES(205, 'M3', 'M3', NULL, NULL);
+  INSERT INTO device_address(device_id, name, value) VALUES(205, 'ptmx_fops', '0xc0a937ec');
+  INSERT INTO device_address(device_id, name, value) VALUES(205, 'prepare_kernel_cred', '0xc006c43c');
+  INSERT INTO device_address(device_id, name, value) VALUES(205, 'commit_creds', '0xc006c094');
+  INSERT INTO device_address(device_id, name, value) VALUES(205, 'remap_pfn_range', '0xc00e9edc');
+
