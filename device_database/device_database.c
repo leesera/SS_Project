@@ -439,32 +439,12 @@ device_set_symbol_address(device_symbol_t symbol, unsigned long int address)
   return true;
 }
 
-bool read_all(char * filename, char * buf) {
-  FILE *fp;
-  long lSize;
-  char *buffer;
-
-  fp = fopen ( filename , "rb" );
-  if( !fp ) perror(filename),return false;
-
-  fseek( fp , 0L , SEEK_END);
-  lSize = ftell( fp );
-  rewind( fp );
-
-  if( 1!=fread( buf , lSize, 1 , fp) )
-    fclose(fp),fputs("entire read fails",stderr),return false;
-
-
-  fclose(fp);
-  return true;
-}
 
 void
 print_reason_device_not_supported(void)
 {
   char device[PROP_VALUE_MAX];
   char build_id[PROP_VALUE_MAX];
-  char version[VERSION_VAlUE_MAX];
   const char *check_name;
   sqlite3_stmt *st;
   int rc;
