@@ -1,4 +1,4 @@
-BEGIN TRANSACTION;
+/* BEGIN TRANSACTION; */
 DROP TABLE IF EXISTS supported_devices;
 DROP TABLE IF EXISTS device_address;
 CREATE TABLE supported_devices(device_id INTEGER PRIMARY KEY ASC, device TEXT NOT NULL, build_id TEXT NOT NULL, check_property_name TEXT, check_property_value TEXT, UNIQUE (device, build_id, check_property_name, check_property_value));
@@ -1510,4 +1510,9 @@ INSERT INTO supported_devices(device_id, device, build_id, check_property_name, 
   INSERT INTO device_address(device_id, name, value) VALUES(205, 'prepare_kernel_cred', '0xc006c43c');
   INSERT INTO device_address(device_id, name, value) VALUES(205, 'commit_creds', '0xc006c094');
   INSERT INTO device_address(device_id, name, value) VALUES(205, 'remap_pfn_range', '0xc00e9edc');
+
+INSERT INTO supported_devices(device_id, device, build_id, check_property_name, check_property_value) VALUES(206, 'ZTE Kis3 max', 'VG-UK-QB18S-P172F10V1.0.1', NULL, NULL);
+  INSERT INTO device_address(device_id, name, value) VALUES(206, 'ptmx_fops', '0xc0a1f2ec');
+  INSERT INTO device_address(device_id, name, value) VALUES(206, 'prepare_kernel_cred', '0xc0060de0');
+  INSERT INTO device_address(device_id, name, value) VALUES(206, 'commit_creds', '0xc0060a38');
 
